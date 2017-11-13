@@ -1,0 +1,1512 @@
+{
+ "score": 462,
+ "id": "63ml7h",
+ "num_comments": 189,
+ "date": "2017-04-05 09:25:26",
+ "comments": [
+  {
+   "score": 102,
+   "id": "dfw7wk0",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 20:25:04",
+   "depth": 0,
+   "text": "So I got bored and did some math on some anime physics.\n\n######Today's subject:  The Madan/Spirit Bullet that Nomura pulled on Rin\n\nA figure noted for the pound force of a one inch punch was [153 lbs](https://en.wikipedia.org/wiki/One-inch_punch). This is **680.578 Newtons**. [For comparison, this is a little bit weaker than the average force behind a human bite, which clocks in at 720 Newtons.](https://en.wikipedia.org/wiki/Orders_of_magnitude_\\(force\\)) Counting the distance as one inch, it has an energy of **17.3 Joules**, which is about [17x weaker than the energy behind a lethal dosage of x-rays, and 19x weaker than the energy needed to melt ice.](https://en.wikipedia.org/wiki/Orders_of_magnitude_\\(energy\\))\n\nTo find the force needed to send someone flying like that, I fruitlessly searched [google](https://www.google.com/) until I remembered [a dash cam video of someone being sent flying by a car when trying to run through the street](https://www.youtube.com/watch?v=Lwtfe7CHfTI), and decided that an average car going **30 mph** would be comparable to the hit she took. [A good weight for a larger car seems to be **1500kg**](https://en.wikipedia.org/wiki/Orders_of_magnitude_\\(mass\\)). This means it would hit with a momentum of **20,116.8 kg*m/s**.\n\nThis momentum, being applied from Nomura's hand, is already astronomical. However, this isn't all - it being an approximate one-millimeter punch, its force is applied rapidly from a standstill. Its force can be calculated by assuming his fist, from start to contact, traveled for about **10 milliseconds**. This means the force applied amounts to... drumroll please:\n#**2,011,680 Newtons!**\n\n\nTo put this outrageous number into perspective - [The thrust of the main engine on the space shuttle at takeoff amounts to **1,800,000 Newtons**](https://en.wikipedia.org/wiki/Orders_of_magnitude_\\(force\\))\n\nTaking the 1mm assumed distance into account, the Madan had an energy of...\n#**2011.68 Joules!**\n\nThe energy output of the Madan falls somewhere nicely between [a single shot from an M16 \\(at 1800 Joules\\) and the energy needed to vaporize one gram of water into steam \\(at 2300 Joules\\).](https://en.wikipedia.org/wiki/Orders_of_magnitude_\\(energy\\))\n\n#tl;dr don't fuck with spirit bullets\n\nSource: Anything I pulled for comparison came from wikipedia except for that one youtube video and sometimes google"
+  },
+  {
+   "score": 6,
+   "id": "dfwnmex",
+   "pid": "t1_dfw7wk0",
+   "date": "2017-04-06 06:09:50",
+   "depth": 1,
+   "text": "I hope, in the future, you do the math for any of the other crazy techniques these characters pull."
+  },
+  {
+   "score": 7,
+   "id": "dg2qfz3",
+   "pid": "t1_dfw7wk0",
+   "date": "2017-04-10 08:19:20",
+   "depth": 1,
+   "text": "So TLDR; his Spirit Bullet punches carry the same power as a shot from an M16? (but spread on his palm so it's blunt force instead of piercing through)\n\nSo in theory, his punches should hurt as if a bullet hits you while you're wearing kevlar? (which can potentially break bones)"
+  },
+  {
+   "score": 6,
+   "id": "dg2skdw",
+   "pid": "t1_dg2qfz3",
+   "date": "2017-04-10 08:58:26",
+   "depth": 2,
+   "text": "Power is defined as Joules per Second. To more accurately explain the measurement I gave, since I left it a bit vague, the energy output of the Spirit Bullet is slightly higher than the kinetic energy of a 5.56x45mm 4.1g M16 bullet fired at 930 m/s. The Spirit Bullet is Nomura's hand (which we could calculate the size, mass, and speed of with our energy figure, if we really wanted) outputting about that same energy.\n\nThe impact would be similar to being hit while wearing body armor, since both the armor and the palm would serve to apply the energy over a wider area, and should be enough to break bones, given the right angle of attack"
+  },
+  {
+   "score": 6,
+   "id": "dfwoz03",
+   "pid": "t1_dfw7wk0",
+   "date": "2017-04-06 06:40:56",
+   "depth": 1,
+   "text": "> and the energy needed to vaporize water into steam (at 2300 Joules).\n\nYou gota give an amount of water to go with that."
+  },
+  {
+   "score": 5,
+   "id": "dfwpl8s",
+   "pid": "t1_dfwoz03",
+   "date": "2017-04-06 06:54:14",
+   "depth": 2,
+   "text": "Ah, there you go being right. It says it in the source link, but I forgot to say it myself. That'd be one gram of water being vaporized"
+  },
+  {
+   "score": 6,
+   "id": "dfwhfxl",
+   "pid": "t1_dfw7wk0",
+   "date": "2017-04-06 02:17:43",
+   "depth": 1,
+   "text": "Add some swearing and have Hall of the Mountain King playing in the background and this could be a ShoddyCast episode of \"The SCIENCE of ...\""
+  },
+  {
+   "score": 11,
+   "id": "dfwcdj4",
+   "pid": "t1_dfw7wk0",
+   "date": "2017-04-05 22:30:29",
+   "depth": 1,
+   "text": "You must be reaaally bored."
+  },
+  {
+   "score": 21,
+   "id": "dfwcce9",
+   "pid": "t1_dfw7wk0",
+   "date": "2017-04-05 22:29:24",
+   "depth": 1,
+   "text": "/r/theydidthemath"
+  },
+  {
+   "score": 6,
+   "id": "dfy20fk",
+   "pid": "t1_dfwcce9",
+   "date": "2017-04-06 23:36:03",
+   "depth": 2,
+   "text": "/r/theydidthemonstermath"
+  },
+  {
+   "score": 24,
+   "id": "dfwdlpo",
+   "pid": "t1_dfw7wk0",
+   "date": "2017-04-05 23:16:07",
+   "depth": 1,
+   "text": "I kinda want math for future episodes now...."
+  },
+  {
+   "score": 37,
+   "id": "dfwelos",
+   "pid": "t1_dfw7wk0",
+   "date": "2017-04-05 23:57:55",
+   "depth": 1,
+   "text": "Jesus Christ he wasn't joking when he said he has a gun"
+  },
+  {
+   "score": 14,
+   "id": "dfwewtt",
+   "pid": "t1_dfwelos",
+   "date": "2017-04-06 00:11:43",
+   "depth": 2,
+   "text": "If that's a gun anything with less firepower than a Panzer is a toy."
+  },
+  {
+   "score": 14,
+   "id": "dfwf4ek",
+   "pid": "t1_dfwewtt",
+   "date": "2017-04-06 00:21:17",
+   "depth": 3,
+   "text": "By gun he meant an anti-tank rifle"
+  },
+  {
+   "score": 246,
+   "id": "dfvg2tj",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 11:15:43",
+   "depth": 0,
+   "text": "Now THIS is a PROPER Battel School Harem! If we compare this to Akashic Records that aired yesterday, that one is NOT a battle harem but more closer to a fantasy comedy set in a school.\n\nCome on, 5 strongest girls in the school in some sort of organization and all of them are interested in our MC? MC is a confident and competent fighter? We even ended with an accidental kiss! \n\nIt's probably gonna be garbage but this is the kind of garbage that I like! It's fun and I love it!"
+  },
+  {
+   "score": -3,
+   "id": "dfwoeov",
+   "pid": "t1_dfvg2tj",
+   "date": "2017-04-06 06:28:16",
+   "depth": 1,
+   "text": "Can someone explain to me the appeal in trash like this?"
+  },
+  {
+   "score": 6,
+   "id": "dfwtq1e",
+   "pid": "t1_dfwoeov",
+   "date": "2017-04-06 08:13:35",
+   "depth": 2,
+   "text": "The appeal cannot be described with words my friend. It must be experienced. It can take years before the appeal reveals itself to you. But when you do find the joy in watching trash be trash, you can fufu all you like..."
+  },
+  {
+   "score": 6,
+   "id": "dfwf4sk",
+   "pid": "t1_dfvg2tj",
+   "date": "2017-04-06 00:21:46",
+   "depth": 1,
+   "text": "Damn, you sold it like champ ... I'll take this anime."
+  },
+  {
+   "score": 13,
+   "id": "dfvxhhi",
+   "pid": "t1_dfvg2tj",
+   "date": "2017-04-05 16:44:01",
+   "depth": 1,
+   "text": "Damn it take my upvote"
+  },
+  {
+   "score": 14,
+   "id": "dfw7qzt",
+   "pid": "t1_dfvg2tj",
+   "date": "2017-04-05 20:21:28",
+   "depth": 1,
+   "text": "Guilty pleasure for the season. I like. "
+  },
+  {
+   "score": 9,
+   "id": "dfwizw4",
+   "pid": "t1_dfw7qzt",
+   "date": "2017-04-06 03:36:51",
+   "depth": 2,
+   "text": "[Guilty pleasure you say? \\( \u0361\u00b0 \u035c\u0296 \u0361\u00b0\\)](https://myanimelist.net/anime/33834/Sin__Nanatsu_no_Taizai?q=sin%20nanat)"
+  },
+  {
+   "score": 44,
+   "id": "dfw5f4x",
+   "pid": "t1_dfvg2tj",
+   "date": "2017-04-05 19:30:15",
+   "depth": 1,
+   "text": "> It's probably gonna be garbage but this is the kind of garbage that I like! It's fun and I love it!\n\ndont mind me while i steal this quote for later use"
+  },
+  {
+   "score": 54,
+   "id": "dfvozgo",
+   "pid": "t1_dfvg2tj",
+   "date": "2017-04-05 13:50:15",
+   "depth": 1,
+   "text": "SOLD!"
+  },
+  {
+   "score": 45,
+   "id": "dfvnesr",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 13:22:56",
+   "depth": 0,
+   "text": "What is [Ram](http://imgur.com/a/hEsQp) doing in this anime?"
+  },
+  {
+   "score": 5,
+   "id": "dfw0oe9",
+   "pid": "t1_dfvnesr",
+   "date": "2017-04-05 17:51:35",
+   "depth": 1,
+   "text": "More importantly why does she have Prince ~~Hata~~Baka in her hair?"
+  },
+  {
+   "score": 5,
+   "id": "dfwhlw6",
+   "pid": "t1_dfvnesr",
+   "date": "2017-04-06 02:26:29",
+   "depth": 1,
+   "text": "she is now my favorite character because Ram is best girl (IMO)"
+  },
+  {
+   "score": 121,
+   "id": "dfvbmwr",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 09:59:04",
+   "depth": 0,
+   "text": "This was actually pretty decent. I may be setting up myself for failure but I actually have high hopes for this one."
+  },
+  {
+   "score": 56,
+   "id": "dfvcu13",
+   "pid": "t1_dfvbmwr",
+   "date": "2017-04-05 10:19:49",
+   "depth": 1,
+   "text": "I haven't watched the anime yet, but the manga has been pretty funny. [(Here's some presumably upcoming SPOILERS:) Though the characters may ~~appear~~ be brain damaged at times.](http://imgur.com/a/ctyeX)"
+  },
+  {
+   "score": 3,
+   "id": "dfw6woq",
+   "pid": "t1_dfvcu13",
+   "date": "2017-04-05 20:02:08",
+   "depth": 2,
+   "text": "[ayyy lmao](https://myanimelist.net/manga/447/Oretama?q=my%20balls)"
+  },
+  {
+   "score": 2,
+   "id": "dfwhi6k",
+   "pid": "t1_dfvcu13",
+   "date": "2017-04-06 02:21:01",
+   "depth": 2,
+   "text": "What is a \"erorogunsou\"? My keikaku is to learn Japanese so I need to know, senpai."
+  },
+  {
+   "score": 4,
+   "id": "dfwkura",
+   "pid": "t1_dfwhi6k",
+   "date": "2017-04-06 04:50:47",
+   "depth": 3,
+   "text": "Most probably a reference to Sergeant Keroro. In Japanese it's Keroro Gunsou."
+  },
+  {
+   "score": 9,
+   "id": "dg24nii",
+   "pid": "t1_dfvcu13",
+   "date": "2017-04-09 20:12:16",
+   "depth": 2,
+   "text": "He looks cooler in the manga!"
+  },
+  {
+   "score": 2,
+   "id": "dgaqil7",
+   "pid": "t1_dg24nii",
+   "date": "2017-04-15 08:04:10",
+   "depth": 3,
+   "text": "Actually all of the characters look better in the manga imo..."
+  },
+  {
+   "score": 6,
+   "id": "dg33zjt",
+   "pid": "t1_dg24nii",
+   "date": "2017-04-10 12:20:14",
+   "depth": 3,
+   "text": "Yeah that was the only criticism I had for the episode. The Mc just doesn't look as scummy as in the manga."
+  },
+  {
+   "score": 22,
+   "id": "dfw5op5",
+   "pid": "t1_dfvcu13",
+   "date": "2017-04-05 19:35:36",
+   "depth": 2,
+   "text": "*got hit in the head*\n\n*low blood, brain isn't working right*\n\nI like the little notes"
+  },
+  {
+   "score": 33,
+   "id": "dfvsopw",
+   "pid": "t1_dfvcu13",
+   "date": "2017-04-05 15:01:05",
+   "depth": 2,
+   "text": "Tfw he [Manga Spoiler](/s \"Fights the bear\") that was awesome"
+  },
+  {
+   "score": 102,
+   "id": "dfvc86b",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 10:09:17",
+   "depth": 0,
+   "text": "So this is about cute girls and sword fights right? I'm down, lets goo.\n\nEdit: The OP is dope and sounds like Mario Kart\n\nEdit 2: The dude did the Gary Oak \"Smell you later\". Baller move.\n\nEdit 3: That was really fun! Should be exciting watching this plot evolve I think."
+  },
+  {
+   "score": 4,
+   "id": "dfwponx",
+   "pid": "t1_dfvc86b",
+   "date": "2017-04-06 06:56:15",
+   "depth": 1,
+   "text": "Cute girls and sword fights are meaningless to me unless they have quality to back them up"
+  },
+  {
+   "score": 11,
+   "id": "dfvclp2",
+   "pid": "t1_dfvc86b",
+   "date": "2017-04-05 10:15:49",
+   "depth": 1,
+   "text": "I'm with yah, no more requirements necessary."
+  },
+  {
+   "score": 13,
+   "id": "dfw0g9l",
+   "pid": "t1_dfvc86b",
+   "date": "2017-04-05 17:46:52",
+   "depth": 1,
+   "text": "It's basically the series if Gary Oak was a protagonist and his more fleshed out waifu's with sword fights"
+  },
+  {
+   "score": 87,
+   "id": "dfvcpob",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 10:17:44",
+   "depth": 0,
+   "text": "you know when you think about the perfect snarky comeback way after something has happened? This show was probably written by someone who does that way too often."
+  },
+  {
+   "score": 11,
+   "id": "dfwbuqz",
+   "pid": "t1_dfvcpob",
+   "date": "2017-04-05 22:12:45",
+   "depth": 1,
+   "text": "That scores high in my book ;)"
+  },
+  {
+   "score": 26,
+   "id": "dfvutmw",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 15:45:42",
+   "depth": 0,
+   "text": "Tell me about Rin, why does she wear the mask?"
+  },
+  {
+   "score": 1,
+   "id": "dfwcj09",
+   "pid": "t1_dfvutmw",
+   "date": "2017-04-05 22:35:48",
+   "depth": 1,
+   "text": "[removed]"
+  },
+  {
+   "score": 8,
+   "id": "dfwcpw6",
+   "pid": "t1_dfwcj09",
+   "date": "2017-04-05 22:42:42",
+   "depth": 2,
+   "text": "It's a banepost."
+  },
+  {
+   "score": 4,
+   "id": "dfz32bp",
+   "pid": "t1_dfvutmw",
+   "date": "2017-04-07 14:46:45",
+   "depth": 1,
+   "text": "[Because](/s \"her parents broke up, she remained with her mom, and her face reminded of the dad's, so she had to wear the demon mask to hide her \"demon\" face or something\")"
+  },
+  {
+   "score": 13,
+   "id": "dfwf4ok",
+   "pid": "t1_dfvutmw",
+   "date": "2017-04-06 00:21:37",
+   "depth": 1,
+   "text": "Cause she's edgy. "
+  },
+  {
+   "score": 41,
+   "id": "dfvyi7x",
+   "pid": "t1_dfvutmw",
+   "date": "2017-04-05 17:06:01",
+   "depth": 1,
+   "text": "Perhaps they're wondering why someone would stab a man before throwing him out of a school?"
+  },
+  {
+   "score": 3,
+   "id": "dg0c2sk",
+   "pid": "t1_dfvyi7x",
+   "date": "2017-04-08 13:43:23",
+   "depth": 2,
+   "text": "At least you can be sassy. Who are you?"
+  },
+  {
+   "score": 3,
+   "id": "dfzn4pi",
+   "pid": "t1_dfvyi7x",
+   "date": "2017-04-08 00:12:31",
+   "depth": 2,
+   "text": "Murders look better than expulsions when it comes to marketing."
+  },
+  {
+   "score": 86,
+   "id": "dfvcgl1",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 10:13:20",
+   "depth": 0,
+   "text": "so we finally getting some MC with balls this season huh, perfect for me though"
+  },
+  {
+   "score": 27,
+   "id": "dfvnu28",
+   "pid": "t1_dfvcgl1",
+   "date": "2017-04-05 13:30:21",
+   "depth": 1,
+   "text": "Don't expect much from him, he's kinda smug but that's it"
+  },
+  {
+   "score": 3,
+   "id": "dfxx4k5",
+   "pid": "t1_dfvnu28",
+   "date": "2017-04-06 21:01:00",
+   "depth": 2,
+   "text": "Yeah, he seems to have some baggage :S"
+  },
+  {
+   "score": 7,
+   "id": "dfw2rkx",
+   "pid": "t1_dfvnu28",
+   "date": "2017-04-05 18:34:56",
+   "depth": 2,
+   "text": "I can identify with that"
+  },
+  {
+   "score": 65,
+   "id": "dfvp0zx",
+   "pid": "t1_dfvnu28",
+   "date": "2017-04-05 13:51:01",
+   "depth": 2,
+   "text": "I love my MCs sumg."
+  },
+  {
+   "score": 19,
+   "id": "dfvghjp",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 11:22:53",
+   "depth": 0,
+   "text": "this was actually pretty fun, nice intro too"
+  },
+  {
+   "score": 18,
+   "id": "dfvgv3z",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 11:29:26",
+   "depth": 0,
+   "text": "What's the deal with all these shows not being picked up by streaming services. "
+  },
+  {
+   "score": 17,
+   "id": "dfvt618",
+   "pid": "t1_dfvgv3z",
+   "date": "2017-04-05 15:11:04",
+   "depth": 1,
+   "text": "Because Amazon and Sentai with their \"exclusivity\""
+  },
+  {
+   "score": 20,
+   "id": "dfvz02o",
+   "pid": "t1_dfvt618",
+   "date": "2017-04-05 17:16:25",
+   "depth": 2,
+   "text": "Wait, so these are part of Amazon's garbage anime streaming service? Man, it's been a while since I've sailed the seven seas. But I think I'm starting to hear the call of the sea again."
+  },
+  {
+   "score": 4,
+   "id": "dfw27dm",
+   "pid": "t1_dfvz02o",
+   "date": "2017-04-05 18:23:18",
+   "depth": 3,
+   "text": "In these season they get a lot of shows,it's really disappointing since is way more expensive and service not that great."
+  },
+  {
+   "score": 35,
+   "id": "dfvcd1i",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 10:11:37",
+   "depth": 0,
+   "text": "After reading mal description I expected something much different (I didnt see Action tag) but I think I got something better. "
+  },
+  {
+   "score": 35,
+   "id": "dfvk5qg",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 12:26:47",
+   "depth": 0,
+   "text": "Watching this made me realise how much i missed high-school battle harem shounens ."
+  },
+  {
+   "score": 1,
+   "id": "dfwprhl",
+   "pid": "t1_dfvk5qg",
+   "date": "2017-04-06 06:57:54",
+   "depth": 1,
+   "text": "I was kind of enjoying their absence."
+  },
+  {
+   "score": 3,
+   "id": "dfwrfl7",
+   "pid": "t1_dfvk5qg",
+   "date": "2017-04-06 07:31:01",
+   "depth": 1,
+   "text": "I just realized the last one i watched cane out in like the fall, its been awhile."
+  },
+  {
+   "score": 40,
+   "id": "dfvf513",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 10:59:32",
+   "depth": 0,
+   "text": "Rin best girl.\n\nIf you're not sure about this, read the manga."
+  },
+  {
+   "score": 3,
+   "id": "dfwcgi1",
+   "pid": "t1_dfvf513",
+   "date": "2017-04-05 22:33:24",
+   "depth": 1,
+   "text": "Nah Inaba ( white hair loli girl ) is best grill.\n\nBut Amou X Nomura."
+  },
+  {
+   "score": 11,
+   "id": "dfwetkc",
+   "pid": "t1_dfvf513",
+   "date": "2017-04-06 00:07:40",
+   "depth": 1,
+   "text": "Purple panties #1"
+  },
+  {
+   "score": 40,
+   "id": "dfvf9as",
+   "pid": "t1_dfvf513",
+   "date": "2017-04-05 11:01:33",
+   "depth": 1,
+   "text": "Empress is best girl"
+  },
+  {
+   "score": 18,
+   "id": "dfvfcow",
+   "pid": "t1_dfvf9as",
+   "date": "2017-04-05 11:03:04",
+   "depth": 2,
+   "text": "fgt me"
+  },
+  {
+   "score": 4,
+   "id": "dfvh2nw",
+   "pid": "t1_dfvfcow",
+   "date": "2017-04-05 11:33:03",
+   "depth": 3,
+   "text": "can you guys clarify for me the dude, like the background to him. I don't care about spoilers "
+  },
+  {
+   "score": 3,
+   "id": "dfvhvfj",
+   "pid": "t1_dfvh2nw",
+   "date": "2017-04-05 11:47:18",
+   "depth": 4,
+   "text": "Sure [] (/s \"MC and the Empress has fought with each other during the fight with 40 guys. MC lost straight away when he went up against her.\")"
+  },
+  {
+   "score": 1,
+   "id": "dfvvj42",
+   "pid": "t1_dfvhvfj",
+   "date": "2017-04-05 16:01:05",
+   "depth": 5,
+   "text": "but like who is the mc, like what is he skilled in and like why is he strong "
+  },
+  {
+   "score": 1,
+   "id": "dfvvpku",
+   "pid": "t1_dfvvj42",
+   "date": "2017-04-05 16:05:00",
+   "depth": 6,
+   "text": "Not much is known about him unfortunately there's only 11(?) translated chapters so far. "
+  },
+  {
+   "score": 1,
+   "id": "dfxbmal",
+   "pid": "t1_dfvvpku",
+   "date": "2017-04-06 13:26:40",
+   "depth": 7,
+   "text": "12 on mangahere"
+  },
+  {
+   "score": 1,
+   "id": "dfxdalu",
+   "pid": "t1_dfxbmal",
+   "date": "2017-04-06 13:57:43",
+   "depth": 8,
+   "text": "There's also 12 where I read it from."
+  },
+  {
+   "score": 8,
+   "id": "dfvy8ow",
+   "pid": "t1_dfvvj42",
+   "date": "2017-04-05 17:00:27",
+   "depth": 6,
+   "text": "[Raw spoilers Vol4/5](/s \"MC was taken in as a child by a maniac swordsman who saw potential in him and tried to train him. This is where his knowledge of swordsmanship schools comes from.\")\n\n[](/s \"The training itself was too physically excruciating for a young child and it essentially maimed him in some way, leaving him unfit to wield a sword, hence his reliance on bare-handed combat.\")\n\n[](/s \"His magic bullet is based on the principles and techniques of the swordsmanship school he was trained at, only remixed for use without a sword.\")\n\n[](/s \"One of the Five Swords actually hails from the same sword school as he does.\")"
+  },
+  {
+   "score": 19,
+   "id": "dfvhl8a",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 11:42:14",
+   "depth": 0,
+   "text": "This was a lot of fun. Good mc, we don't get guys like him often. Cocky, competent at fighting, lazy. Add cute girls with swords to that and I'm down for this shit. Comedy was on point as well, so I'll keep watching."
+  },
+  {
+   "score": 7,
+   "id": "dfvmmbb",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 13:09:15",
+   "depth": 0,
+   "text": "Green haired girl reminds me of Sanae from Touhou.\n\nThat guy's head is huge.\n\nDo you really need to make a guy crossdress and act like a girl to correct his behavior? Do you really need to?\n\nNomura is pretty awesome. \n\nAh yes the usual, \"Oh no I have fallen on this girl and our lips just happened to meet!\""
+  },
+  {
+   "score": 8,
+   "id": "dfwfrcv",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-06 00:51:18",
+   "depth": 0,
+   "text": "Masukodera... [Matsuko Deluxe](http://d1udmfvw0p7cd2.cloudfront.net/wp-content/uploads/2014/12/n-matsuko-a-20141204.jpg)?"
+  },
+  {
+   "score": 24,
+   "id": "dfvj4v0",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 12:09:21",
+   "depth": 0,
+   "text": "Man i know i need to turn of my brain when watching this but their idea of co-existence is just too much. Basically force people to obey their rules.  \n\n"
+  },
+  {
+   "score": 2,
+   "id": "dfw4x61",
+   "pid": "t1_dfvj4v0",
+   "date": "2017-04-05 19:20:08",
+   "depth": 1,
+   "text": "Seriously. I coexist with my husband just fine without either of us acting like the other gender. >.> I don't understand their reasoning at all."
+  },
+  {
+   "score": 7,
+   "id": "dfw6xa6",
+   "pid": "t1_dfvj4v0",
+   "date": "2017-04-05 20:02:30",
+   "depth": 1,
+   "text": "[If you think about it too much you'll come to the same conclusion as I did.](https://www.reddit.com/r/anime/comments/63ml7h/spoilers_busou_shoujo_machiavellianism_episode_1/dfw5i8d/)\n\nHowever, I think I'm going to enjoy our smug MC ruin this feminist utopia."
+  },
+  {
+   "score": 7,
+   "id": "dfwawau",
+   "pid": "t1_dfvj4v0",
+   "date": "2017-04-05 21:42:59",
+   "depth": 1,
+   "text": "Well this school became a place to correct men who don't behave, not to turn every single man into a girl."
+  },
+  {
+   "score": 12,
+   "id": "dfvdekn",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 10:29:44",
+   "depth": 0,
+   "text": "I love it. Been a while since I saw an anime like this"
+  },
+  {
+   "score": 3,
+   "id": "dfwptj5",
+   "pid": "t1_dfvdekn",
+   "date": "2017-04-06 06:59:05",
+   "depth": 1,
+   "text": "I'll never stop despising the high school battle harem."
+  },
+  {
+   "score": 5,
+   "id": "dfx1lzt",
+   "pid": "t1_dfwptj5",
+   "date": "2017-04-06 10:29:54",
+   "depth": 2,
+   "text": "How can you despise it? "
+  },
+  {
+   "score": 7,
+   "id": "dfx1oi1",
+   "pid": "t1_dfx1lzt",
+   "date": "2017-04-06 10:31:05",
+   "depth": 3,
+   "text": "Because it's uninspired, unoriginal, void of meaningful writing, action, and comedy, full of tasteless fanservice, and the same show every other season? "
+  },
+  {
+   "score": 6,
+   "id": "dfvfzrv",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 11:14:15",
+   "depth": 0,
+   "text": "Need to watch another episode to know if I'd watch this. First episode was fun but I don't get the story yet."
+  },
+  {
+   "score": 49,
+   "id": "dfvcppj",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 10:17:45",
+   "depth": 0,
+   "text": "mc literally joins the school for the first time and gets a sword held to his neck for being a guy\n\nyeah, setting the bar *really* low for this anime\n\nedit: and now the girl is actually trying to kill him because he's running away from school, what the fuck?"
+  },
+  {
+   "score": 1,
+   "id": "dfwly1d",
+   "pid": "t1_dfvcppj",
+   "date": "2017-04-06 05:25:05",
+   "depth": 1,
+   "text": "Eh, so long as the setting's better than Shitsurakuen...\n\nAnd BSM is infinitely more fun than most harem action series out there.\n\n"
+  },
+  {
+   "score": 3,
+   "id": "dg6wnj7",
+   "pid": "t1_dfvcppj",
+   "date": "2017-04-12 18:18:03",
+   "depth": 1,
+   "text": "It really annoys me that no one called her out on it. Why the hell did he deserve to have a sword slashed at him? "
+  },
+  {
+   "score": 19,
+   "id": "dfwf8yn",
+   "pid": "t1_dfvcppj",
+   "date": "2017-04-06 00:26:54",
+   "depth": 1,
+   "text": "> and now the girl is actually trying to kill him because he's running away from school, what the fuck?\n\nShit like this makes my blood boil. The world they're in obviously goes by the same rules as ours, evident by the girl at the end saying mask-chan can't murder.\n\nSo lets say, for example, MC-kun *wasn't* a skilled fighter, and one of the sword swings connected. Well he's dead, and now mask-chan has to be locked up for murder. Are these retards actually willing to go to jail just to \"reform\" transfer students? \n\nThis show's found it's place in the top 5 stupidest premises of the season very quickly. "
+  },
+  {
+   "score": 28,
+   "id": "dfvi2ik",
+   "pid": "t1_dfvcppj",
+   "date": "2017-04-05 11:50:44",
+   "depth": 1,
+   "text": "I'd hate it too, but I think it's just an interesting backdrop for the action scenes and this isn't gonna be some shitty femdom anime."
+  },
+  {
+   "score": 10,
+   "id": "dfvk2q8",
+   "pid": "t1_dfvi2ik",
+   "date": "2017-04-05 12:25:22",
+   "depth": 2,
+   "text": "[deleted]"
+  },
+  {
+   "score": 32,
+   "id": "dfvw0l9",
+   "pid": "t1_dfvk2q8",
+   "date": "2017-04-05 16:11:43",
+   "depth": 3,
+   "text": "The MC isn't enough of a pushover for this to be a femdom anime.\n\nAgain, I think it's just a regular old action anime with a twist."
+  },
+  {
+   "score": 11,
+   "id": "dfw71ic",
+   "pid": "t1_dfvw0l9",
+   "date": "2017-04-05 20:05:11",
+   "depth": 4,
+   "text": "Can't wait for the alpha male to ruin this feminist utopia."
+  },
+  {
+   "score": 4,
+   "id": "dfwojjf",
+   "pid": "t1_dfw71ic",
+   "date": "2017-04-06 06:31:19",
+   "depth": 5,
+   "text": ">implying this show will have any development whatsoever "
+  },
+  {
+   "score": 12,
+   "id": "dfvgk07",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 11:24:03",
+   "depth": 0,
+   "text": "I like it. It has cute girls, action, comedy, and cute girls."
+  },
+  {
+   "score": 2,
+   "id": "dfwpu0k",
+   "pid": "t1_dfvgk07",
+   "date": "2017-04-06 06:59:21",
+   "depth": 1,
+   "text": "Those things don't mean much to me without substance to support them."
+  },
+  {
+   "score": 13,
+   "id": "dfw8u8v",
+   "pid": "t1_dfvgk07",
+   "date": "2017-04-05 20:47:35",
+   "depth": 1,
+   "text": "Calling it right now, [Satori is best girl](http://i.imgur.com/OgOCj8Y.jpg)"
+  },
+  {
+   "score": 2,
+   "id": "dfwddpm",
+   "pid": "t1_dfw8u8v",
+   "date": "2017-04-05 23:07:25",
+   "depth": 2,
+   "text": "You're in for a treat when he fights her then if they stay true."
+  },
+  {
+   "score": 10,
+   "id": "dfvecxk",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 10:46:18",
+   "depth": 0,
+   "text": "I love it. Empress is best girl ready, and blonde loli"
+  },
+  {
+   "score": 5,
+   "id": "dfvdt0y",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 10:36:44",
+   "depth": 0,
+   "text": "Sad that only Amazon and AnimeLab streams it,but what can we do...First episode was surprisingly decent,I like the MC and where this is going"
+  },
+  {
+   "score": 7,
+   "id": "dfvlx5g",
+   "pid": "t1_dfvdt0y",
+   "date": "2017-04-05 12:57:03",
+   "depth": 1,
+   "text": "i hope he doesnt devolve like what happened with charlotte's MC"
+  },
+  {
+   "score": 5,
+   "id": "dfvql6d",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 14:19:37",
+   "depth": 0,
+   "text": "HYPE! Finally I've been read this manga a while back and it is glorious can't wait to see more of it in action next week!! THE NORUMA TRAIN IS IN FULL EFFECT! "
+  },
+  {
+   "score": 5,
+   "id": "dfwcxlf",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 22:50:28",
+   "depth": 0,
+   "text": "Aside from needing to watch on Amazon's service and their shit player (took a good 5 minutes of paused buffering for the image to stop being fuzzy on their 'best' quality) I'm super excited that this series is happening.\n\nBeen reading the manga (what little has been translated) and despite my usual hate for obvious battle-harem series, something about this one stuck with me. Only thing I feel was lost in the adaptation is the MC's eyes. Manga has him with an expression of 'I'm just too tired of life's shit' that the anime didn't seem to capture..."
+  },
+  {
+   "score": 9,
+   "id": "dfvt0oh",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 15:08:01",
+   "depth": 0,
+   "text": "fyi, the [Kashima Shinden Jikishinkage Ryu](https://en.wikipedia.org/wiki/Kashima_Shinden_Jikishinkage-ry\u016b) that the girl used in this ep is an actual koryu kenjutsu school\n\nyou can find demonstrations and etc on [youtube](https://www.youtube.com/watch?v=anfNo6CCGUs), though to the eyes of non-practitioners, the kata that they perform can seem really slow and perhaps even silly, but there are key points regarding timing/spacing/distance that are hidden within the kata which are not disclosed to the public."
+  },
+  {
+   "score": 12,
+   "id": "dfvizg8",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 12:06:46",
+   "depth": 0,
+   "text": "The presentation of the show somehow reminded me of Kill la Kill.\n\nThis is the first battle/school/harem I have seen that has an MC who is a delinquent and to top it all he is using his fists to fight and not a sword. i was surprised to see that it is based on a manga and not LN. i guess this is an interesting example how 2 different mediums deal with the same \"genre\"."
+  },
+  {
+   "score": 2,
+   "id": "dfw5xat",
+   "pid": "t1_dfvizg8",
+   "date": "2017-04-05 19:40:33",
+   "depth": 1,
+   "text": "Especially Rin's stance when she started the meeting was very reminiscent of Satsuki in KLK"
+  },
+  {
+   "score": 2,
+   "id": "dg0if8v",
+   "pid": "t1_dfvizg8",
+   "date": "2017-04-08 16:24:09",
+   "depth": 1,
+   "text": "no joke, i was wondering if it was a klk parody for a sec there at the beginning"
+  },
+  {
+   "score": 12,
+   "id": "dfw5i8d",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 19:31:56",
+   "depth": 0,
+   "text": "I've come up with a solution, if she points a sword at me I'll thrust my neck into it, if I die the school gains national attention and is shut down and I'm finally done with this life, if I don't I sue the school and get one of the 5 whatchamacollits into juvie hall for attempted murder. It's a win-win situation. Mwuahahaha!"
+  },
+  {
+   "score": 5,
+   "id": "dfw0i0d",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 17:47:54",
+   "depth": 0,
+   "text": "LOL they're all Confucian and shit but then there are Buddha statues in and on the building. They would."
+  },
+  {
+   "score": 3,
+   "id": "dfzc880",
+   "pid": "t1_dfw0i0d",
+   "date": "2017-04-07 18:25:12",
+   "depth": 1,
+   "text": "they went the eu4 route and harmonized :D"
+  },
+  {
+   "score": 2,
+   "id": "dg6x00n",
+   "pid": "t1_dfzc880",
+   "date": "2017-04-12 18:25:21",
+   "depth": 2,
+   "text": "Japan Stole the Mandate from Ming."
+  },
+  {
+   "score": 4,
+   "id": "dfwg9rw",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-06 01:16:40",
+   "depth": 0,
+   "text": "Is it bad that I'm kind of impressed the MC didn't just roflstomp Onihime with no trouble whatsoever?"
+  },
+  {
+   "score": 3,
+   "id": "dfwkgsd",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-06 04:36:54",
+   "depth": 0,
+   "text": "i didn't expect this gonna be this good. The battle was pretty fun, it's kinda remind me of katanagatari."
+  },
+  {
+   "score": 2,
+   "id": "dgi9f1m",
+   "pid": "t1_dfwkgsd",
+   "date": "2017-04-20 00:45:58",
+   "depth": 1,
+   "text": "Well. Obviously IT IS looking like a katanagatari series. And you are NOT the only one thinking like that.\n\nFor the past 3 episode I can guaranteed you that they share a similar pattern with the katanagatari.\n\n1. The 5 Virtue Girls team comprise with \"sword-like\" name each with their own fighting style.\n2. The MC needs to defeat and collect all 5 of the \"Swords\" Stamp in order to walk outside freely when he so desire.\n3. and the last, crucial, noteworthy that is making us strongly believe that this anime resembles to Katanagatari is The Episode Tittle! \n\nIn episode 1, the tittle is called \"Subarashiki Yaiba [Onigawara.Rin]\" or in translation it is called \"The magnificent Blade [Demon Laughing.Rin]\" and in episode 3, the tittle is called \"Uruwashiki Yaiba [Kikakujou.Meari]\" Or in translation it is called \"The Fair Blade [Turtle Crane Castle.Mary]\"  Do You see what I see here? Its exactly what my nostalgia feels like! \n\nThis is the anime I am hook to watch till the end!\n\n(About the naming part on no.3, the first one I just butchered it and the second one, I google-translate that name. In which I am not even sure if Kikakujou is REALLY what its call as \"Turtle Crane Castle\". So... TRANSLATOR, HELP ME TRANSLATE THOSE CHARACTERS NAME OUT!!!)\n\n"
+  },
+  {
+   "score": 5,
+   "id": "dfvigj1",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 11:57:35",
+   "depth": 0,
+   "text": "I liked this more than I thought I would. I'm also getting some subtle Kill la Kill vibes, which I definitely like. "
+  },
+  {
+   "score": 6,
+   "id": "dfvwb4x",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 16:18:01",
+   "depth": 0,
+   "text": "This was actually pretty decent. I liked it quite a bit in how it is animated. It has some flow and consistency.\n\nI found hilarious to see Ram from Re:Zero here xD. Also, believe it or not, the swordplay style Rin was using while fighting with Nomura is actually a real one, just put in Google \"kashima shinden jikishinkage-ry\u016b\" and you will find it. What Nomura used, the bullet spirit? is probably a technique that comes from swordplay, but doing it with its bare hands it resembles more to TaiChi, especially with how the breathing was emphasized and how the force came from his lower half.\n\nQuite a lot of details that I found interesting seeing them here. I'm going to keep watching this."
+  },
+  {
+   "score": 4,
+   "id": "dfvzfu2",
+   "pid": "t1_dfvwb4x",
+   "date": "2017-04-05 17:25:25",
+   "depth": 1,
+   "text": "Well,i don't know what parts will be cut or rushed later in anime,but if you like know more detail about technical side of battles I recommend you to go read 1st chapter of manga,because adapt 76 pages in 21 minutes without cutting and rearranging stuff is pretty hard,there is a lot details and facts about swordstyle and other intersting info,mangaka even get praised by real fencers for making people interested in this topic."
+  },
+  {
+   "score": 1,
+   "id": "dfwpyhv",
+   "pid": "t1_dfvzfu2",
+   "date": "2017-04-06 07:01:55",
+   "depth": 2,
+   "text": "Wow, 76 pages for the 1st chapter is pretty crazy :o, surely I'll do just that. Thanks for the tip!"
+  },
+  {
+   "score": 3,
+   "id": "dfvlmzx",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 12:52:13",
+   "depth": 0,
+   "text": "Seems pretty fun. Probably a school battle harem, but that doesn't matter much.\n\nThe OP is good too."
+  },
+  {
+   "score": 3,
+   "id": "dfw6a81",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 19:48:19",
+   "depth": 0,
+   "text": "Yeah, this is a pretty dumb show with not a lot to praise about it. It's probably going to be great for some mindless fun though, when you just want to watch something stupid without having to think too deep about things."
+  },
+  {
+   "score": 3,
+   "id": "dfz4bxg",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-07 15:14:39",
+   "depth": 0,
+   "text": "Was very enjoyable.  was very well executed.  This is how you make a good fighting show without over extending your animation budget."
+  },
+  {
+   "score": 3,
+   "id": "dg7h6z9",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-13 05:34:34",
+   "depth": 0,
+   "text": "One guy VS a SJW dystopia. I'll give it a chance.\n"
+  },
+  {
+   "score": 8,
+   "id": "dfvgp57",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 11:26:33",
+   "depth": 0,
+   "text": "That was dumb fun and should be treated as such. Pretty decent."
+  },
+  {
+   "score": 5,
+   "id": "dfvjofy",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 12:18:34",
+   "depth": 0,
+   "text": "I don't think anyone should take this anime seriously and just go along with the ride."
+  },
+  {
+   "score": 10,
+   "id": "dfvjxr6",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 12:23:01",
+   "depth": 0,
+   "text": "...you just had to add the last part huh. \n\nI seriously enjoyed the whole episode, MC's behaviour, the characters in general and especially the fight. But you just had to add the \"whoops I kissed you and it wasn't my fault\" part. For whatever reason, with just that scene my opinion lowered a lot. Totally unnecessary IMO. Like VN where H-scenes are just an eyesore, or where ecchi is too heavily underlined.\n\nNevertheless, I still quite enjoyed this. I have high expectations."
+  },
+  {
+   "score": 3,
+   "id": "dfw91fs",
+   "pid": "t1_dfvjxr6",
+   "date": "2017-04-05 20:52:39",
+   "depth": 1,
+   "text": "> Totally unnecessary IMO\n\nNothing in anime is *necessary*"
+  },
+  {
+   "score": 20,
+   "id": "dfvkwos",
+   "pid": "t1_dfvjxr6",
+   "date": "2017-04-05 12:39:38",
+   "depth": 1,
+   "text": "It's a battle-harem. I'm not sure what more would you expect from one."
+  },
+  {
+   "score": 2,
+   "id": "dfvmcij",
+   "pid": "t1_dfvkwos",
+   "date": "2017-04-05 13:04:31",
+   "depth": 2,
+   "text": "Yeah... I suppose I had too many expectations. I just felt it was really good for a battle-harem and then it got to *that* part. I'm not againist battle or harem, just give it enough development (and please let it be not too far fetched) and keep these accident to a minimum unless you're backed up by the same thing of Rito^we ^all ^now ^which ^Rito ^I'm ^talking ^about, ^yes?"
+  },
+  {
+   "score": 3,
+   "id": "dfvkxk2",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 12:40:03",
+   "depth": 0,
+   "text": "I will keep watching it. The MC looks fun to watch and is no brain dead idiot."
+  },
+  {
+   "score": 4,
+   "id": "dfvs4fw",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 14:49:49",
+   "depth": 0,
+   "text": "Oga I didn't know you came to this show. What about little Beel?\n\nMC is dope. \n\nAction is good.\n\nOF COURSE IT'S THE \"ACCIDENTAL\" KISS TROPE!\n\nHey it might be done better than other similar high school, battle, thing. We shall see in the upcoming weeks. Gonna watch it for now. If I get more of this cheeky ass Nomura guy and less cliche scenes I'll be good."
+  },
+  {
+   "score": 5,
+   "id": "dfvflzh",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 11:07:34",
+   "depth": 0,
+   "text": "Man, I was expecting a bunch of cute traps and get assholes in shitty makeup instead. It seems solid but I'm so disappointed I can't watch more "
+  },
+  {
+   "score": 2,
+   "id": "dfw72ok",
+   "pid": "t1_dfvflzh",
+   "date": "2017-04-05 20:05:54",
+   "depth": 1,
+   "text": "I'm so disappointed as well. I wanted traps, not this!"
+  },
+  {
+   "score": 2,
+   "id": "dfwgk0d",
+   "pid": "t1_dfvflzh",
+   "date": "2017-04-06 01:31:19",
+   "depth": 1,
+   "text": "[Could be worse](http://i.imgur.com/q0TNYXA.jpg). "
+  },
+  {
+   "score": 10,
+   "id": "dfvsfj5",
+   "pid": "t1_dfvflzh",
+   "date": "2017-04-05 14:55:58",
+   "depth": 1,
+   "text": ">assholes in shitty makeup\n\nGood. Putting traps would make it more generic. "
+  },
+  {
+   "score": 1,
+   "id": "dfw71wf",
+   "pid": "t1_dfvsfj5",
+   "date": "2017-04-05 20:05:25",
+   "depth": 2,
+   "text": "Name me one anime with a school filled lots of traps. \n\n(Please I'd love to watch that ;w; )"
+  },
+  {
+   "score": 3,
+   "id": "dfw9kj5",
+   "pid": "t1_dfw71wf",
+   "date": "2017-04-05 21:06:25",
+   "depth": 3,
+   "text": "I never watched it but [Princess Princess](https://myanimelist.net/anime/907/Princess_Princess) is kinda like that. All boy school, a few boys forced to crossdress."
+  },
+  {
+   "score": 1,
+   "id": "dfwaavc",
+   "pid": "t1_dfw9kj5",
+   "date": "2017-04-05 21:25:57",
+   "depth": 4,
+   "text": "Oooh thanks for the information. I'll have to put it on my list to check out sometime."
+  },
+  {
+   "score": 7,
+   "id": "dfwd9rt",
+   "pid": "t1_dfvsfj5",
+   "date": "2017-04-05 23:03:06",
+   "depth": 2,
+   "text": "Because right now it's fucking brimming with originality"
+  },
+  {
+   "score": 6,
+   "id": "dfvrmuc",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 14:40:04",
+   "depth": 0,
+   "text": ">reads summary\n\n>being forced to dress and act like a girl, or be expelled.\n\nI dont like where this is going"
+  },
+  {
+   "score": 11,
+   "id": "dfvf6r7",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 11:00:22",
+   "depth": 0,
+   "text": "Ugh I can't stand the MC in this...idk if it's actually the MC or the whole men are inferior to woman so we need this guy to prove otherwise shtick. This show **screams** harem but no tag so I'll stick with it for a bit more. \n\nThen again if they make me like the MC more I can see myself warming up to it, guess we'll see."
+  },
+  {
+   "score": 6,
+   "id": "dfwf3d1",
+   "pid": "t1_dfvf6r7",
+   "date": "2017-04-06 00:20:01",
+   "depth": 1,
+   "text": "It's a BATTLE HAREM. You can drop if you want. The setting is just a backdrop to have duels for the MC to fight against the girls."
+  },
+  {
+   "score": 3,
+   "id": "dfwf6rg",
+   "pid": "t1_dfwf3d1",
+   "date": "2017-04-06 00:24:09",
+   "depth": 2,
+   "text": "No harem tag though... ^^^^^^yet"
+  },
+  {
+   "score": 3,
+   "id": "dfwolp8",
+   "pid": "t1_dfwf3d1",
+   "date": "2017-04-06 06:32:41",
+   "depth": 2,
+   "text": "Sounds boring."
+  },
+  {
+   "score": 2,
+   "id": "dfvokfs",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 13:43:00",
+   "depth": 0,
+   "text": "I never thought I would be looking forward to the next episode of a battle school harem. I guess the anime gods have given me a decent birthday present."
+  },
+  {
+   "score": 2,
+   "id": "dfvp6yc",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 13:53:52",
+   "depth": 0,
+   "text": "Hmm, kinda like dragon rioting, seems decent."
+  },
+  {
+   "score": 2,
+   "id": "dfvu0q9",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 15:28:46",
+   "depth": 0,
+   "text": "The first episode was great fun, I love how cheeky Nomura is.\n\nRin best girl btw. "
+  },
+  {
+   "score": 2,
+   "id": "dfvuw5n",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 15:47:11",
+   "depth": 0,
+   "text": "Oh boy, seems like we are going to get a good fix of battle school harem this season between this and the one that aired yesterday!"
+  },
+  {
+   "score": 2,
+   "id": "dfwobov",
+   "pid": "t1_dfvuw5n",
+   "date": "2017-04-06 06:26:24",
+   "depth": 1,
+   "text": "So much trash to sift through"
+  },
+  {
+   "score": 2,
+   "id": "dfw0q8h",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 17:52:36",
+   "depth": 0,
+   "text": "Not great, not bad.."
+  },
+  {
+   "score": 2,
+   "id": "dfw2a8e",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 18:24:57",
+   "depth": 0,
+   "text": "This is exactly the kind of retarded shit that I love about anime. Definitely sticking with this"
+  },
+  {
+   "score": 2,
+   "id": "dfw7p27",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 20:20:14",
+   "depth": 0,
+   "text": "Why didn't anyone tell me Oga Tatsumi transferred schools?"
+  },
+  {
+   "score": 2,
+   "id": "dfwbt7s",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 22:11:22",
+   "depth": 0,
+   "text": "So glad the pilot lived up to my expectations. Let's hope this is a good one!"
+  },
+  {
+   "score": 2,
+   "id": "dfwvl0i",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-06 08:46:29",
+   "depth": 0,
+   "text": "So MCs a badass and cute girls who are violent?\n\nDefinitely AOTS material."
+  },
+  {
+   "score": 4,
+   "id": "dfw3swj",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 18:56:38",
+   "depth": 0,
+   "text": "Meh. Not really digging this.\n\n"
+  },
+  {
+   "score": 3,
+   "id": "dfw4evh",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 19:09:35",
+   "depth": 0,
+   "text": "So this anime is about alpha dude in a feminist utopia? Gotcha. Sounds interesting."
+  },
+  {
+   "score": 4,
+   "id": "dfwacyn",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 21:27:29",
+   "depth": 0,
+   "text": "Hmm, that was actually really enjoyable. Dumb fun. And not the forced \"we're making jokes and a play on the genre, haha\" dumb fun, but just mindless action.\n\nI could see this turning to trash pretty quickly, but while maybe not the best first episode I've seen of the airing anime so far, it was definitely the most fun. "
+  },
+  {
+   "score": 2,
+   "id": "dfwef2t",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 23:49:44",
+   "depth": 0,
+   "text": "I know people who enjoy this garbage will downvote me, but whatever.\n\nThis is one of the worst written and directed shows I have seen for quite a while. Opening scene takes 6 minutes and majority of it is just spouting dry exposition. I get a feeling that it is supposed to be wacky dumb fun, but at the same time music is heavy and colors are toned down. The best part is that most of the things that were said in the first few minutes were pointless, stuff we could have seen.\n\nFor example how much better show would be if we just started from the point of view of main character. We start by seeing flashbacks of him fighting in the past and him saying he was sent to this school because of it. He enters school focused on himself wanting to just have a calm quiet school life, you can add a bit of attitude to him like throwing can into a trash bin from big distance and lazy posture. Suddenly he is surrounded by all those girls with weapons and main exposition dumb would be done by main girl with a more wicked feel to it. Make it feel crazy. Now MC runs away through a window. Mask girl makes a wicked smile and slowly leaves the room. No while MC is doing a commotion in the school you cut into other swordsman while playing their own music themes or better make MC run into those swordsmans. Each of them would have different reaction to him, some would show disinterest, other would be seemingly nice, teasing him, one could be seemingly angry at him\u2026 Make it varied and built threat. At last he runs into mask girl again and they fight. \n\nJust something consistent emotionally.\n\nAbout writing, like god damn it. I understand they want their feminazi school and femdom undertones, but at least make it make sense in the world. From our perspective it looks like your normal modern society. Giving girls weapons is not out of the question, fact that they start running the school also is not a problem. Problem is when they are aggressors. Whole premise of their rise to power is built on the idea that they defend themselves, but right now they are going around and force fights. MC did nothing that would warrant attacking him, they have no business \u201ccorrecting\u201d him because he did nothing to cross them. You might say that this is to show how power hungry they are, but then\u2026 show it, really show how wicked they are. Don\u2019t present them as just cute girls that need to defend themselves, commit. Not to mention that this was supposed to be modern setting, where are the parents. Adults gave those girls weapons, so when they clearly misuse it, it would be taken away.\nLast critical flaw of the setting is the fact that\u2026 swords? I have no issue with all characters having swords, but they are trying to kill each other. Blood was shed\u2026 This isn\u2019t case of quirky school, but just straight up murder and as I have said before this is normal modern setting from what we know. When those girls came at MC he could just refuse and what\u2026 they would slice him up? Beat him up to death? Who writes this garbage?! If they assaulted him then he could just go to police, show them sword cuts and say that those guys with weapons attacked him on the first day at school. WHY THERE IS EVEN A CONFLICT HERE?!\n\nThis show straight up contradicts itself in the first minutes. This isn\u2019t case of girls rising to power via aggression because they had to defend themselves, they were given permission to carry a weapon by adults who then suddenly disappear from story. Premise is built around girls defending themselves and going to far with it (like prison school), but MC never actually did anything\u2026. like at all. Shows tries to have typical modern anime school setting while throwing THREAT OF MURDER AND DEATH into the mix, like\u2026 what? Maybe if it was dystopian matriarch future where males are second class citizens and scale of the issue was global. \n\nThis show is garbage and I am saying this as a person who loves watching shows like Ange Vierge, Cross Ange, Symphogear, Rakudai etc. I have no idea how low your standards must be to enjoy this show\u2026 honestly.\n"
+  },
+  {
+   "score": 2,
+   "id": "dfvkg8y",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 12:31:47",
+   "depth": 0,
+   "text": "i guess i'm going to pat this anime as my \"battle harem of the season\". don't disappoint me now, i actually legit like this so far.\n\nat that OP is just hngnngngng.."
+  },
+  {
+   "score": 2,
+   "id": "dfvqrcs",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 14:22:55",
+   "depth": 0,
+   "text": "Okay, this one isnt bad.. Going to keep watching "
+  },
+  {
+   "score": 2,
+   "id": "dfvsfoz",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 14:56:04",
+   "depth": 0,
+   "text": "I'm torn... Love the moEdgy, and am triggered by how ridiculous the guys dressed as girls look...\n\nLuckily the MC looks capable enough to grope, kiss and sniff his way onto a revolution to dethrone this lolli tyranny. \n"
+  },
+  {
+   "score": 2,
+   "id": "dfw3goa",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 18:49:33",
+   "depth": 0,
+   "text": "My MC of the season right here guarenteed. This season is spoiling me in all its regards. "
+  },
+  {
+   "score": 2,
+   "id": "dfwb4lg",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 21:49:48",
+   "depth": 0,
+   "text": "lol this anime is getting shitted on because of the setting being feminazi? I was expecting this to get a lot more upvotes. Hopefully more people eventually realize how petty it is to hate on this. I didn't see any innocent dudes being turned into girls here. Just delinquents. And I swear if you mention girls using swords, you either have to be new to anime or just have mental problems. \n\nAnyway, I originally came here to mention I love Silver Link and they haven't failed me yet. The art is as amazingly eye-catching as those generic harem anime. I've always wanted the generic anime's art styles to be on much better, more creative anime."
+  },
+  {
+   "score": 1,
+   "id": "dfw4m75",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 19:13:49",
+   "depth": 0,
+   "text": "Is this on Crunchyroll?"
+  },
+  {
+   "score": 1,
+   "id": "dfw836z",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 20:29:27",
+   "depth": 0,
+   "text": "I get what this old school school battle show is going for. With its 5 rulers that the protagonist has to defeat. But, the fight scenes seem really constrained to me. When I'm watching the scenes it feels like I'm seeing something locked ather than in a fluid. It's a weird feeling."
+  },
+  {
+   "score": 1,
+   "id": "dfwevjk",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-06 00:10:07",
+   "depth": 0,
+   "text": "Anyone know where I can watch the show? Can't seem to find a link anywhere."
+  },
+  {
+   "score": 1,
+   "id": "dfwgicd",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-06 01:28:51",
+   "depth": 0,
+   "text": "Good ol battle school anime. Seems fun."
+  },
+  {
+   "score": 1,
+   "id": "dfwnvqu",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-06 06:16:09",
+   "depth": 0,
+   "text": "If there's no traps, I'm not interested "
+  },
+  {
+   "score": 1,
+   "id": "dfx21ma",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-06 10:37:20",
+   "depth": 0,
+   "text": "GF tells me she read about a fun show were all the guys have to be traps\n\nShe's super excited to see all kinds of boys in dresses\n\nWe sit down to see more traps than a sadistic Dungeons and Dragons adventure\n\n[MFW the make-up boys show](http://imgur.com/siCo2r6)"
+  },
+  {
+   "score": 1,
+   "id": "dfxnl6p",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-06 17:36:30",
+   "depth": 0,
+   "text": "I wasn't sure whether I'd watch this because the premise sounded lame, but I actually quite enjoyed that. The art was nice and [the 5 girls](http://i.imgur.com/3Ystqm7.jpg) had great designs (my favourite is [greenie here](http://i.imgur.com/d9EeaSc.jpg)). It kind of reminds me of last season's Akiba's Trip where it knows it's silly and plays to that."
+  },
+  {
+   "score": 1,
+   "id": "dfy78zg",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-07 03:42:58",
+   "depth": 0,
+   "text": "Horny SWJ female high school want to get dirty but do not want to get hit on by male, so when a dude who has some training show up they all want a pice of his D. End of story. lol"
+  },
+  {
+   "score": 1,
+   "id": "dg0ihnz",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-08 16:25:50",
+   "depth": 0,
+   "text": "this is next level retarded. like, I've enjoyed a few battle harems, but this is terrible."
+  },
+  {
+   "score": 1,
+   "id": "dg30vt9",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-10 11:26:11",
+   "depth": 0,
+   "text": "This is like some hardcore redpill shit"
+  },
+  {
+   "score": 1,
+   "id": "dg6fc89",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-12 12:40:39",
+   "depth": 0,
+   "text": "Call the cops, this girl just tried to flat out kill a person for no reason.\n\nSeriously, this anime logic pisses me off the most.\n\nOkay, its a school to reform people, but laws still exist. Carry around swords for self-protection sure, but that act was trying to murder."
+  },
+  {
+   "score": -2,
+   "id": "dfvkbx3",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 12:29:43",
+   "depth": 0,
+   "text": "Been here before, Ben-To was more fun.  \n\nThe comedy just doesn't gel with me as much as it wants to. And the MC has *nothing* on 90s delinquents. The battling is OK, but it's not even as clever as it pretends to be, it's more akin to chuuni bs than actual tactics. There's just a certain lack of zest to the presentation that makes it really dull, when it's supposed to have some edge to it. The burden of trying to be a low key school anime.\n\n[](#kumikouninterested)\n\nThis will be like a GabDrop to me. Where it will feel more and more tired each episode, and the action isn't as flashy or clever in any way. I'll be dropping this."
+  },
+  {
+   "score": 3,
+   "id": "dfvu8nm",
+   "pid": "t1_dfvkbx3",
+   "date": "2017-04-05 15:33:24",
+   "depth": 1,
+   "text": "Well,at least I suggest you to try 1st chapter of manga,you may feel that way because 1st episode was a bit rushed(76 pages in 21 minutes,so yeah) and some comedy moments,exposition,battle choreography(actually sword techniques are real,through exaggerated,mangaka even get praised by real fencers) \u0441ould be done a lot better and some moments won't be cut,so it's up to you but maybe that's what you missed in anime..."
+  },
+  {
+   "score": 0,
+   "id": "dfvd2n1",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 10:23:58",
+   "depth": 0,
+   "text": "My brain can't help but see this as 'discount Kill la Kill', but without all the cool and fun that made Kill la Kill good. Not sure if that's an unfounded association or not, but that's how my mind is working it seems.\n\nWon't be watching this one. Not for me."
+  },
+  {
+   "score": 2,
+   "id": "dfvi3i7",
+   "pid": "t1_dfvd2n1",
+   "date": "2017-04-05 11:51:13",
+   "depth": 1,
+   "text": "It might be Rin's design. I got the same feeling."
+  },
+  {
+   "score": 1,
+   "id": "dfvwprv",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 16:26:59",
+   "depth": 0,
+   "text": "Pretty good start. Liking the MC."
+  },
+  {
+   "score": -13,
+   "id": "dfvbe7y",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 09:54:58",
+   "depth": 0,
+   "text": "one of the worst names i've ever seen"
+  },
+  {
+   "score": 10,
+   "id": "dfvhhx5",
+   "pid": "t1_dfvbe7y",
+   "date": "2017-04-05 11:40:36",
+   "depth": 1,
+   "text": "You know what Machiavellianism is tho, right? Right?"
+  },
+  {
+   "score": -1,
+   "id": "dfvi1p9",
+   "pid": "t1_dfvhhx5",
+   "date": "2017-04-05 11:50:20",
+   "depth": 2,
+   "text": "yea the reference seemed weird to me i guess not others"
+  },
+  {
+   "score": 6,
+   "id": "dfvig9h",
+   "pid": "t1_dfvi1p9",
+   "date": "2017-04-05 11:57:28",
+   "depth": 3,
+   "text": "Ok good, just wanted to make sure. Wikipedia says \"Machiavellianism is \"the employment of cunning and duplicity in statecraft or in general conduct\".\" I guess that's what we're supposed to expect from the MC, he didn't seem dumb to me at the very least.\n\nHowever if it turns out this name really doesn't make sense, then I'd obviously agree with you. But so far it's just way too early to call this name bad."
+  },
+  {
+   "score": 9,
+   "id": "dfvkecl",
+   "pid": "t1_dfvig9h",
+   "date": "2017-04-05 12:30:52",
+   "depth": 4,
+   "text": "Actually it's also a term in political science, which denotes a state policy based on a cult of brute force, disregard for morality, and so on.Armed girls school,correction by using violence,weird setting,almost like tyranny - perfect definition!\ufeff"
+  },
+  {
+   "score": 2,
+   "id": "dfwd704",
+   "pid": "t1_dfvkecl",
+   "date": "2017-04-05 23:00:05",
+   "depth": 5,
+   "text": "True that, I didn't even think about that. So I guess either way the name makes perfect sense."
+  },
+  {
+   "score": -1,
+   "id": "dfw79x3",
+   "pid": "t3_63ml7h",
+   "date": "2017-04-05 20:10:22",
+   "depth": 0,
+   "text": "W T F"
+  }
+ ]
+}

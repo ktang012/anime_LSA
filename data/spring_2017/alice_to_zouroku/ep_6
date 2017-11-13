@@ -1,0 +1,944 @@
+{
+ "score": 342,
+ "id": "6cgy4j",
+ "num_comments": 117,
+ "date": "2017-05-21 08:00:34",
+ "comments": [
+  {
+   "score": 115,
+   "id": "dhulajz",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 08:51:29",
+   "depth": 0,
+   "text": "Sana pls teach me Calculus"
+  },
+  {
+   "score": 83,
+   "id": "dhum6y8",
+   "pid": "t1_dhulajz",
+   "date": "2017-05-21 09:11:30",
+   "depth": 1,
+   "text": "If it's a derivative use chain rule. \n\nIf it's an integral use wolfram alpha. \n\n"
+  },
+  {
+   "score": 6,
+   "id": "dhuunwu",
+   "pid": "t1_dhum6y8",
+   "date": "2017-05-21 12:22:50",
+   "depth": 2,
+   "text": "> If it's an integral use wolfram alpha.\n\nMy maxim so far while studying Scientific Programming"
+  },
+  {
+   "score": 21,
+   "id": "dhunl36",
+   "pid": "t1_dhum6y8",
+   "date": "2017-05-21 09:43:35",
+   "depth": 2,
+   "text": "Use Laplace transform in all cases !"
+  },
+  {
+   "score": 3,
+   "id": "dhuz9qg",
+   "pid": "t1_dhunl36",
+   "date": "2017-05-21 14:04:09",
+   "depth": 3,
+   "text": "> Use Laplace transform in all cases !\n\nand when you're calculating close to the speed of light, remember to do lorentz transformation!!\n"
+  },
+  {
+   "score": 5,
+   "id": "dhunpwa",
+   "pid": "t1_dhunl36",
+   "date": "2017-05-21 09:46:41",
+   "depth": 3,
+   "text": "I think using Laplace transforms as a way of doing derivatives and integrals would be a bit of a roundabout way. Easier to use a derivative/integral table then going through all the effort of a Laplace transform solution. If you're doing an ODE then yeah it could help."
+  },
+  {
+   "score": 4,
+   "id": "dhuo3ht",
+   "pid": "t1_dhunpwa",
+   "date": "2017-05-21 09:55:24",
+   "depth": 4,
+   "text": "Laplace transforms is just an excuse to only learn a dozen or so integrations and rely on those for everything else."
+  },
+  {
+   "score": 2,
+   "id": "dhus8u4",
+   "pid": "t1_dhuo3ht",
+   "date": "2017-05-21 11:29:03",
+   "depth": 5,
+   "text": "can you explain the principle behind it in simple terms?"
+  },
+  {
+   "score": 3,
+   "id": "dhusutq",
+   "pid": "t1_dhus8u4",
+   "date": "2017-05-21 11:42:58",
+   "depth": 6,
+   "text": "Not really, but I'll try anyway. [The simple Wikipedia article isn't very helpful, alas.](https://simple.wikipedia.org/wiki/Laplace_transform)\n\nBasically through some properties you can convert derivation and integral operators and rewrite a differential equations as simple algebraic function. Essentially derivation becomes multiplying by *s* and integration becomes multiplying by *s^-1*. The resulting equation is very easy to manipulate through addition and multiplication. \n\nThen, using algebra, you rewrite your function in one of the standard forms (you'll most likely have a [table](https://en.wikipedia.org/wiki/List_of_Laplace_transforms) with them) that are very easy to solve.\n\nI've skipped quite a lot of details (and I might have made some mistakes), so don't expect the above to serve as a crash course. Can't really use Laplace transform without understanding Fourier transform, which in turn requires to know how to use complex numbers in frequency equations."
+  },
+  {
+   "score": 2,
+   "id": "dhut45g",
+   "pid": "t1_dhusutq",
+   "date": "2017-05-21 11:48:54",
+   "depth": 7,
+   "text": "so is it only useful for differential equations?"
+  },
+  {
+   "score": 2,
+   "id": "dhut9of",
+   "pid": "t1_dhut45g",
+   "date": "2017-05-21 11:52:23",
+   "depth": 8,
+   "text": "Basically, yes. But if you're familiar enough with it you can also go through a double Laplace transform to simply go from one form of derivation to another one."
+  },
+  {
+   "score": 1,
+   "id": "dhutbs0",
+   "pid": "t1_dhut9of",
+   "date": "2017-05-21 11:53:35",
+   "depth": 9,
+   "text": "and for integration? "
+  },
+  {
+   "score": 1,
+   "id": "dhutfsb",
+   "pid": "t1_dhutbs0",
+   "date": "2017-05-21 11:56:09",
+   "depth": 1,
+   "text": "Same thing. Under Laplace transform integration and derivation are as simple as each other - which is a big advantage because in the temporal domain integration is much more painful to deal with than derivation.\n\nDisclaimer : I got a few courses about it, but it's not my specialty. There might be other uses I don't know about."
+  },
+  {
+   "score": 1,
+   "id": "dhutrrk",
+   "pid": "t1_dhutfsb",
+   "date": "2017-05-21 12:03:34",
+   "depth": 2,
+   "text": "what year university do you see this?"
+  },
+  {
+   "score": 1,
+   "id": "dhuub1l",
+   "pid": "t1_dhutrrk",
+   "date": "2017-05-21 12:15:11",
+   "depth": 3,
+   "text": "Third year bachelor. It was a course from my electricity minor, if I recall correctly."
+  },
+  {
+   "score": 1,
+   "id": "dhuuers",
+   "pid": "t1_dhuub1l",
+   "date": "2017-05-21 12:17:24",
+   "depth": 4,
+   "text": "that's quite a while. "
+  },
+  {
+   "score": 6,
+   "id": "dhuocbc",
+   "pid": "t1_dhuo3ht",
+   "date": "2017-05-21 10:00:54",
+   "depth": 5,
+   "text": "Most people don't learn Laplace until well after calculus II, and mostly within the context of ODEs. It's simpler to learn things like U substitution or integration by parts."
+  },
+  {
+   "score": 1,
+   "id": "dhvj08y",
+   "pid": "t1_dhuocbc",
+   "date": "2017-05-21 22:12:59",
+   "depth": 6,
+   "text": "I didn't learn about Laplace Transforms until Linear Algebra and Differential Equations. I never thought anyone would learn it before then."
+  },
+  {
+   "score": 41,
+   "id": "dhusw4m",
+   "pid": "t1_dhunl36",
+   "date": "2017-05-21 11:43:46",
+   "depth": 3,
+   "text": "\"When all you have is a hammer, everything else is a nail.\" "
+  },
+  {
+   "score": 58,
+   "id": "dhuluqw",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 09:03:44",
+   "depth": 0,
+   "text": "Such a weird episode. They switched to some dangerous bike chase into a goofy [comic exit out](http://imgur.com/4WSBg8U.jpg)\n\nI was wondering if the [twins](http://imgur.com/frIdhrA.jpg) stole Hane's [Honda CB400F](http://imgur.com/zo1yu4z.jpg)\n\nGlad to see those two are back. Guess their backstory goes into Alien 9 creepy type mode. I'm wondering when will the two new characters mentioned in the special will pop up\n\nThat [pouting](http://imgur.com/vBvU860.jpg) is so Hnnnngggg\n\n[](#uwaa)\n\nI'm missing the blatant out of nowhere advertising. To me it kinda became part of the show.\n"
+  },
+  {
+   "score": 3,
+   "id": "dhuupdg",
+   "pid": "t1_dhuluqw",
+   "date": "2017-05-21 12:23:44",
+   "depth": 1,
+   "text": "> Guess their backstory goes into Alien 9 creepy type mode.\n\n[](#helmetbro)\n\nThumbs up for Alien 9. It's is one of those shows that you'll barely hear from in this sub."
+  },
+  {
+   "score": 6,
+   "id": "dhuz08n",
+   "pid": "t1_dhuluqw",
+   "date": "2017-05-21 13:58:14",
+   "depth": 1,
+   "text": "The American school the twins mentioned going to in Yokosuka and the red brick building they were running across the street towards in the final scene are probably the same place (although that school isn't actually in Yokosuka, it's an international school in Yokohama (near Motomachi station where the episode took place) so they're a bit off). So I suppose that's stealth advertising for [school name] (/s \"YIS\")?"
+  },
+  {
+   "score": 2,
+   "id": "dhvoa6x",
+   "pid": "t1_dhuz08n",
+   "date": "2017-05-22 01:59:28",
+   "depth": 2,
+   "text": "Weren't those on base housing buildings?  And then they show them off base running across the street.  The school is YIS?  Yeah that is weirdly inconsistent haha."
+  },
+  {
+   "score": 30,
+   "id": "dhum8ap",
+   "pid": "t1_dhuluqw",
+   "date": "2017-05-21 09:12:22",
+   "depth": 1,
+   "text": ">I'm missing the blatant out of nowhere advertising. To me it kinda became part of the show.\n\nThe cafe is a real place, so they had that I guess."
+  },
+  {
+   "score": 34,
+   "id": "dhukctu",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 08:30:38",
+   "depth": 0,
+   "text": "I'm enjoying this lovely Slice of Sana's life going on but I cannot shake the frazzled feelings i'm getting from some of the tones and actions in the show..\n\nSana's Pout game is on point though"
+  },
+  {
+   "score": 2,
+   "id": "dhvig6f",
+   "pid": "t1_dhukctu",
+   "date": "2017-05-21 21:54:27",
+   "depth": 1,
+   "text": "> frazzled\n\nI'm not sure she knows what frazzled means or the translation is a bit off."
+  },
+  {
+   "score": 9,
+   "id": "dhuvp0p",
+   "pid": "t1_dhukctu",
+   "date": "2017-05-21 12:45:33",
+   "depth": 1,
+   "text": "Maybe shes turning back into what she was before she was Sana-chan."
+  },
+  {
+   "score": 66,
+   "id": "dhuk4f0",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 08:25:21",
+   "depth": 0,
+   "text": "[Those](http://i.imgur.com/KrWL2JZ.png) [faces](http://i.imgur.com/17SVNp3.png)!!!\n\nThat \"error\" thing has me kinda worried but everything else was very nice and cute (well, except for the sisters' past but that is in the past), i'll just keep hoping for nothing bad to happen in the future even if the next episode's title is \"The Evil Witch\"..."
+  },
+  {
+   "score": 19,
+   "id": "dhumtuq",
+   "pid": "t1_dhuk4f0",
+   "date": "2017-05-21 09:26:04",
+   "depth": 1,
+   "text": "I kinda fear its related to what Sana saw that made her run from The Facility in the first place."
+  },
+  {
+   "score": 20,
+   "id": "dhuowvq",
+   "pid": "t1_dhumtuq",
+   "date": "2017-05-21 10:13:52",
+   "depth": 2,
+   "text": "Hopefully it's just her 'becoming more human' or something and all works out in the end."
+  },
+  {
+   "score": 53,
+   "id": "dhukr4s",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 08:39:41",
+   "depth": 0,
+   "text": "[Ichijou is just too cool](http://i.imgur.com/LRXJkS0.jpg) can we just have more of her please.\n\nPretty cute episode, happy for Sana that she's made up with he old friends. The twins using both their powers to escape was pretty fun to watch too!"
+  },
+  {
+   "score": 11,
+   "id": "dhviep0",
+   "pid": "t1_dhukr4s",
+   "date": "2017-05-21 21:53:07",
+   "depth": 1,
+   "text": "> Ichijou is just too cool can we just have more of her please.\n\nNeed that spinoff!"
+  },
+  {
+   "score": 73,
+   "id": "dhum1tc",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 09:08:12",
+   "depth": 0,
+   "text": "Error. That's not a good vibe at all. \n\nIt seems like this could very well end on a sad note, i hope not though. "
+  },
+  {
+   "score": 5,
+   "id": "dhvcf2z",
+   "pid": "t1_dhum1tc",
+   "date": "2017-05-21 19:20:06",
+   "depth": 1,
+   "text": "[removed]"
+  },
+  {
+   "score": 1,
+   "id": "dhvg65f",
+   "pid": "t1_dhvcf2z",
+   "date": "2017-05-21 20:46:50",
+   "depth": 2,
+   "text": "Maybe she just need new people to live for. And those will be Zouroku, Sanae and the two new characters! And we'll get a happy ending, nobody getting hurt or mentally ill! ^^^^^^^^^^^^^^please"
+  },
+  {
+   "score": 6,
+   "id": "dhve9pj",
+   "pid": "t1_dhvcf2z",
+   "date": "2017-05-21 20:01:35",
+   "depth": 2,
+   "text": "you worded this as if you know what's going to happen, so I hope this comment isn't spoilery at all"
+  },
+  {
+   "score": 12,
+   "id": "dhuoew8",
+   "pid": "t1_dhum1tc",
+   "date": "2017-05-21 10:02:34",
+   "depth": 1,
+   "text": "We saw an adult Sana! No 'errors' will bring me down!"
+  },
+  {
+   "score": 84,
+   "id": "dhuntrb",
+   "pid": "t1_dhum1tc",
+   "date": "2017-05-21 09:49:06",
+   "depth": 1,
+   "text": "[I wish I had never heard of Chekhov's Gun.](https://imgur.com/a/v9ciU)"
+  },
+  {
+   "score": 2,
+   "id": "djbubar",
+   "pid": "t1_dhuntrb",
+   "date": "2017-06-23 20:57:40",
+   "depth": 2,
+   "text": "To be fair, I've seen CGs not go off in some anime where I thought they were really blatant. But we'll have to see."
+  },
+  {
+   "score": 3,
+   "id": "dhv9af7",
+   "pid": "t1_dhuntrb",
+   "date": "2017-05-21 18:05:11",
+   "depth": 2,
+   "text": "Memory loss?"
+  },
+  {
+   "score": 9,
+   "id": "dhuw4h0",
+   "pid": "t1_dhuntrb",
+   "date": "2017-05-21 12:54:43",
+   "depth": 2,
+   "text": "NOOOOOOOOOOOOOOoooooooooooo!!!!!!!!!!!!!1111!"
+  },
+  {
+   "score": 21,
+   "id": "dhvb97w",
+   "pid": "t1_dhuntrb",
+   "date": "2017-05-21 18:52:06",
+   "depth": 2,
+   "text": "Yeah, while random power activation could potentially cause a massive body count, it really was the short term memory loss that felt the most foreboding to me.  I think her human mind is deteriorating, and the frazzled person on the inside might be her pre-human self trying to get out."
+  },
+  {
+   "score": 31,
+   "id": "dhuo3hx",
+   "pid": "t1_dhuntrb",
+   "date": "2017-05-21 09:55:24",
+   "depth": 2,
+   "text": "Oh my fucking god."
+  },
+  {
+   "score": 28,
+   "id": "dhuyf9s",
+   "pid": "t1_dhuntrb",
+   "date": "2017-05-21 13:45:13",
+   "depth": 2,
+   "text": "They better not fire it."
+  },
+  {
+   "score": 21,
+   "id": "dhumrg1",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 09:24:31",
+   "depth": 0,
+   "text": "Wow, that was some [epic pouting.](http://i.imgur.com/j0fzd2d.png)\n\nAww it's cute that how frazzled Sana is, I suppose after such a secluded early childhood. All these new emotions and experiences must be totally overwhelming. Heck it freak out normal kids, let alone magical girls. so no wonder she's glitching out.\n\nAlso, there's something funny about having Fenrir chomping down on that massive rock. It's not quite the Sun, but it could be a small asteroid."
+  },
+  {
+   "score": 17,
+   "id": "dhup5yo",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 10:19:38",
+   "depth": 0,
+   "text": "When you realize Sana is excellent in math while you are failing for math exams yourself\n\n[](#frustration)"
+  },
+  {
+   "score": 4,
+   "id": "dhuw717",
+   "pid": "t1_dhup5yo",
+   "date": "2017-05-21 12:56:04",
+   "depth": 1,
+   "text": "I abandoned math as soon as I graduated from high school. Majored in English in college, haven't needed anything beyond the occasional bit of basic arithmetic since."
+  },
+  {
+   "score": 1,
+   "id": "dhvpwuc",
+   "pid": "t1_dhuw717",
+   "date": "2017-05-22 03:23:34",
+   "depth": 2,
+   "text": "That's kind of sad. You've stolen a huge part of the world away from yourself as without basic algebra you can't understand money properly. Not having a grasp of algebra is pretty damaging to success in general life.\n\nQuestions like: which debt do I pay off first? If I don't pay off this debt right now, how much extra will I need to pay if I keep paying minimum payments? Should I invest in this stock/bond/mutal fund/etc based on how much it makes on average? Where should I put my retirement money? etc"
+  },
+  {
+   "score": 3,
+   "id": "dhwa77y",
+   "pid": "t1_dhvpwuc",
+   "date": "2017-05-22 11:33:23",
+   "depth": 3,
+   "text": "The thing is, there are plenty of reliable tools out there to help you suss that out. Sure it's valuable to know how to do it all yourself but it's not necessarily a detriment if you don't."
+  },
+  {
+   "score": 4,
+   "id": "dhwf3v9",
+   "pid": "t1_dhvpwuc",
+   "date": "2017-05-22 13:07:04",
+   "depth": 3,
+   "text": "Um, what? Algebra is taught in high school, and the dude said he stopped learning math *after* high school. He at least finished up to algebra II, and at most went up to calculus II in high school."
+  },
+  {
+   "score": 1,
+   "id": "dhwkxpk",
+   "pid": "t1_dhwf3v9",
+   "date": "2017-05-22 15:03:30",
+   "depth": 4,
+   "text": "> haven't needed anything beyond the occasional bit of basic arithmetic since."
+  },
+  {
+   "score": 4,
+   "id": "dhwl56y",
+   "pid": "t1_dhwkxpk",
+   "date": "2017-05-22 15:07:57",
+   "depth": 5,
+   "text": "Yeah. He hasn't needed it yet. You're speaking as if he can't and won't ever use it, talking about how it's \"stealing a huge part of your world.\"\n\nYou're blowing it way out of proportion man. "
+  },
+  {
+   "score": 1,
+   "id": "dhwmm3f",
+   "pid": "t1_dhwl56y",
+   "date": "2017-05-22 15:39:32",
+   "depth": 6,
+   "text": "If you don't use it you lose it."
+  },
+  {
+   "score": 3,
+   "id": "dhwp3ga",
+   "pid": "t1_dhwmm3f",
+   "date": "2017-05-22 16:33:30",
+   "depth": 7,
+   "text": "Right... You understand that there are *plenty* of people who don't take college math classes and have been successful and happy right? \nObviously, most majors aren't even math focused in the first place, so most college students don't  take math.\n\nTo think he's going to struggle financially or \"have a huge part of his world taken away from him\" just cus he doesn't take college math classes is absolutely ridiculous and naive. "
+  },
+  {
+   "score": 14,
+   "id": "dhv9v53",
+   "pid": "t1_dhup5yo",
+   "date": "2017-05-21 18:18:49",
+   "depth": 1,
+   "text": "\"If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.\"\n\n\u2014 John von Neumann\n"
+  },
+  {
+   "score": 17,
+   "id": "dhunaan",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 09:36:40",
+   "depth": 0,
+   "text": "I think the last two episodes have turned this into something special. It's so sweet and genuine [it just makes me want to happy cry.](http://i.imgur.com/olZMlae.gif)\n\nSomething really noticeable this episode that I appreciated. How confident this show is with it's more personal scenes. It ditches all the music and just lets people talk. I like that a lot."
+  },
+  {
+   "score": 11,
+   "id": "dhv9ga0",
+   "pid": "t1_dhunaan",
+   "date": "2017-05-21 18:09:01",
+   "depth": 1,
+   "text": "Did not expect to see Kokoro Connect here."
+  },
+  {
+   "score": 10,
+   "id": "dhvp0h9",
+   "pid": "t1_dhv9ga0",
+   "date": "2017-05-22 02:37:08",
+   "depth": 2,
+   "text": "> Kokoro Connect\n\nPeople like you, who post the source, are greater than Gods to me."
+  },
+  {
+   "score": 17,
+   "id": "dhuoh0o",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 10:03:54",
+   "depth": 0,
+   "text": "We're Yotsuba& now, boys."
+  },
+  {
+   "score": 4,
+   "id": "dhushtm",
+   "pid": "t1_dhuoh0o",
+   "date": "2017-05-21 11:34:45",
+   "depth": 1,
+   "text": "ah that why the ED reminds me of Azumanga Daioh"
+  },
+  {
+   "score": 5,
+   "id": "dhv3ftq",
+   "pid": "t1_dhushtm",
+   "date": "2017-05-21 15:39:41",
+   "depth": 2,
+   "text": "No, that's because it's the same composer"
+  },
+  {
+   "score": 14,
+   "id": "dhumavm",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 09:14:02",
+   "depth": 0,
+   "text": "TFW you don't have a cute big sister (or a woman or someone) who wants to sleep with you after you wake up crying "
+  },
+  {
+   "score": 11,
+   "id": "dhutie4",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 11:57:45",
+   "depth": 0,
+   "text": "Good Episode, but seems like these little Errors are some forerunners of Drama. Is she start to become unstable? or is this just the puberty? Let's see\n "
+  },
+  {
+   "score": 4,
+   "id": "dhvbahw",
+   "pid": "t1_dhutie4",
+   "date": "2017-05-21 18:53:00",
+   "depth": 1,
+   "text": "Don't forget the short term memory loss.  That's never a good sign."
+  },
+  {
+   "score": 4,
+   "id": "dhx9ywb",
+   "pid": "t1_dhutie4",
+   "date": "2017-05-23 02:30:55",
+   "depth": 1,
+   "text": "Im really worried about this.\n\nWhat if she becomes unstable and rampages a bit?\n\nOr what if she loses her personality to the core inside her that's having a hard time understanding things?\n\nIs the core actually a separate sana?\n\nAnd if she did go on a rampage, is she gonna get sent back to the lab(meaning the lab is opened once again) and then every single card holder will have to go back to being kept in the lab? \n\nThere is so much that could happen and i can't shake this Frazzled feeling inside my heart that shit will definitely go wrong one way of another..\n\nI really hope I'm wrong. This is the one anime i really cannot predict what would happen. I can only doubt after every episode of where they would take the anime next."
+  },
+  {
+   "score": 7,
+   "id": "dhuw8cb",
+   "pid": "t1_dhutie4",
+   "date": "2017-05-21 12:56:46",
+   "depth": 1,
+   "text": "Pretty sure she's far too young for puberty. Look at her size compared to the twins! She doesn't even come up to their noses!"
+  },
+  {
+   "score": 12,
+   "id": "dhum1sf",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 09:08:12",
+   "depth": 0,
+   "text": "Supercomputer Sana's math skills are pretty sharp, but it seems she has a bit of trouble with *frazzle logic*.\n\n"
+  },
+  {
+   "score": 3,
+   "id": "dhv9ho1",
+   "pid": "t1_dhum1sf",
+   "date": "2017-05-21 18:09:56",
+   "depth": 1,
+   "text": "Did you mean [fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic)?"
+  },
+  {
+   "score": 5,
+   "id": "dhva9ng",
+   "pid": "t1_dhv9ho1",
+   "date": "2017-05-21 18:28:35",
+   "depth": 2,
+   "text": "Yes, that was the intended joke. I guess I was too subtle with it.\n\nI had another stupid joke: \"I wonder if Sana's favorite tv show is Frazzle Rock?\", but that kind of reference didn't really seem to fit with the episode, so I didn't use it."
+  },
+  {
+   "score": 6,
+   "id": "dhutkyh",
+   "pid": "t1_dhum1sf",
+   "date": "2017-05-21 11:59:22",
+   "depth": 1,
+   "text": "She has a Vulcan mind.. but even Vulcans have problem when it comes to guessing things...\n"
+  },
+  {
+   "score": 8,
+   "id": "dhuoblx",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 10:00:29",
+   "depth": 0,
+   "text": "Sana is learning. It somehow makes sense when you look at her analogy with math to watering the flowers. She isn't that well with language which is why she can't seem to understand some feelings especially to the twin sisters. It looks like it's going back to tragic beginnings again with the research facility. When will that young white-haired boy be in the show? So far he's just there in the background."
+  },
+  {
+   "score": 7,
+   "id": "dhuo7u9",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 09:58:08",
+   "depth": 0,
+   "text": "Yay, as I hoped we saw more of the twins [and they were awesome.](https://i.imgur.com/2tg1Yf0.jpg) Got a bit of an emotional backstory too, and they justified their actions towards Sana. I love them as characters and they make great friends."
+  },
+  {
+   "score": 7,
+   "id": "dhuqj8z",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 10:50:48",
+   "depth": 0,
+   "text": "I wanna watch whatever movie they were filming"
+  },
+  {
+   "score": 5,
+   "id": "dhv74fb",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 17:12:55",
+   "depth": 0,
+   "text": "So I noticed a particular building in [this scene](http://i.imgur.com/dWU657c.png) really stands out. Googling \"upside down Tokyo pyramid\" (Shinjuku is apparently in Tokyo, yes I had to look that up) gave me [Tokyo Big Sight](http://i.imgur.com/FfxW0G5.jpg), but it doesn't look quite right due to the base.\n\n\nI remember there being one in the beginning of GATE:JSDF (couldn't find it, might be misremembering), and in [Full Metal Panic](http://i.imgur.com/zR8sL6g.png) - [extra pic](http://i.imgur.com/jx5OGkP.png). Is this a different building or something?"
+  },
+  {
+   "score": 4,
+   "id": "dhz70sz",
+   "pid": "t1_dhv74fb",
+   "date": "2017-05-24 07:00:30",
+   "depth": 1,
+   "text": "The station they got off at this episode was Motomachi Chuukagai, which is in Yokohama, not Tokyo, so that search wouldn't have gotten you the right building. The upside-down pyramid would be related to the shipping terminal in the area, and [here](https://www.google.com/maps/@35.4477866,139.6471602,3a,75y,339.25h,90.34t/data=!3m6!1e1!3m4!1s_xreWKxOnnx9nwoEu4tsWw!2e0!7i13312!8i6656) would be the approximate view in real life via Google Street View. Enjoy!"
+  },
+  {
+   "score": 2,
+   "id": "dhz8ne3",
+   "pid": "t1_dhz70sz",
+   "date": "2017-05-24 07:29:33",
+   "depth": 2,
+   "text": "Thanks for finding out. I'm not familiar with the actual country/cities, but I forgot that they had taken a train somewhere fairly close."
+  },
+  {
+   "score": 6,
+   "id": "dhv8hxx",
+   "pid": "t1_dhv74fb",
+   "date": "2017-05-21 17:45:58",
+   "depth": 1,
+   "text": "The one in FMP is Big Sight again; it ends up in a lot of shows because it's where Comiket is hosted.\n\nWhat the building in todays episode is I'm not sure. It's clearly a different building but some detective work is needed to find it."
+  },
+  {
+   "score": 1,
+   "id": "dhw7xcl",
+   "pid": "t1_dhv8hxx",
+   "date": "2017-05-22 10:50:08",
+   "depth": 2,
+   "text": "The green building below is actually closer than the Big Sight. The green building is connected to the edge of the water. Focusing on the fact in size and relation to the real building it could never be that small. "
+  },
+  {
+   "score": 6,
+   "id": "dhvg17d",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 20:43:13",
+   "depth": 0,
+   "text": "Just how much time has passed since the Minnie C incident? The twins were a bit taller ~~and Asahi(the onee-sama)'s voice felt really weird~~ and their powers... Yonaga can create a giant crossbow instead of just a simple bow and Asahi can make that chain net and create a motherfucking BIKE. \n\nAlso, it was funny how Sana created robot arms because she saw them in the factory, and that rocket. \n\nThe MojaMoja thing is getting me worried, seriously, it wouldn't be nice if she summoned something\u200b dangerous in public. And the memory loss... Fuck, I'm scared.\n\nLast episode I thought she was going to enter a school, especially with the fake identity she got, but she is doing *factorization*, for the love of God, that is difficult. \n\nAnyway! Waiting ~~and worried~~ for next episode!"
+  },
+  {
+   "score": 1,
+   "id": "dhvm0jq",
+   "pid": "t1_dhvg17d",
+   "date": "2017-05-22 00:10:09",
+   "depth": 1,
+   "text": "I think it's been about a few months or so. The twins had recently started school: joining a club and started learning English there. Sana's had to cut her hair because she started tripping over her long her."
+  },
+  {
+   "score": 1,
+   "id": "dhwrck0",
+   "pid": "t1_dhvm0jq",
+   "date": "2017-05-22 17:21:34",
+   "depth": 2,
+   "text": "Well, that shows how inefficient was the Research Lab, they developed their powers in a few months more than they did in all those years."
+  },
+  {
+   "score": 3,
+   "id": "dhxa0cc",
+   "pid": "t1_dhwrck0",
+   "date": "2017-05-23 02:32:56",
+   "depth": 3,
+   "text": "Isn't the point of the research to suppress the development of their power? to keep everything under their control like how they were selectively feeding sana in a way that she won't have enough power to do anything?"
+  },
+  {
+   "score": 4,
+   "id": "dhupnw9",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 10:31:01",
+   "depth": 0,
+   "text": "Honestly the slice of life portions of this anime are some of my favorites. I particularly enjoy that they aren't letting their powers get in the way of them still being kids."
+  },
+  {
+   "score": 5,
+   "id": "dhuv0af",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 12:30:20",
+   "depth": 0,
+   "text": "It's still pretty much an SoL episode like last week except for that chase scene between Sana and the twins. That Error though, without a big baddie to focus on it looks like that'll be the problem they'll be dealing with this time."
+  },
+  {
+   "score": 4,
+   "id": "dhvbbny",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 18:53:47",
+   "depth": 0,
+   "text": "Feels strange for Sana to start Erroring all the sudden when nothing like this has happened before in the show.  Guess it started happening behind the scenes.  Wonder how long the time skip was.\n\nSana is even having memory problems.  That's not good.  Maybe she's going to revert to whatever type of entity she was before taking on human form?"
+  },
+  {
+   "score": 5,
+   "id": "dhycd47",
+   "pid": "t1_dhvbbny",
+   "date": "2017-05-23 16:44:13",
+   "depth": 1,
+   "text": "It's probably related to her actually feeling emotions since it's pretty clear things like that confuse her."
+  },
+  {
+   "score": 1,
+   "id": "dhyetwn",
+   "pid": "t1_dhycd47",
+   "date": "2017-05-23 17:36:29",
+   "depth": 2,
+   "text": "She's certainly been acting like she's had emotions from the very beginning though."
+  },
+  {
+   "score": 3,
+   "id": "dhygiqq",
+   "pid": "t1_dhyetwn",
+   "date": "2017-05-23 18:09:58",
+   "depth": 3,
+   "text": "Well more complex emotions (basically making her a more full person) she's never had to tackle before due to the controlled lab environment. That and all the new experiences."
+  },
+  {
+   "score": 3,
+   "id": "dhuo2wa",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 09:55:02",
+   "depth": 0,
+   "text": "I thought this episode would be introducing us the two friends Sana would meet in the special episode. Sana is slowly learning about the world and there are a lot of intricacies that nobody really understands, and this time is the emotion of loneliness and missing someone. It's great to see the other children involved are not mistreated, but seems like something is going down starting from the next episode. I hope it's just a fairy tale or story time of some sort though, Sana's just an adorable kid."
+  },
+  {
+   "score": 3,
+   "id": "dhup83x",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 10:20:58",
+   "depth": 0,
+   "text": "Twins and Sana are now like BFFs and will eat pork buns together yayyyy. Now we(I)need an episode of them playing together or having a sleepover. "
+  },
+  {
+   "score": 3,
+   "id": "dhurl4v",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 11:14:17",
+   "depth": 0,
+   "text": "those factorization exercises were actually pretty tough."
+  },
+  {
+   "score": 3,
+   "id": "dhuxut6",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 13:32:04",
+   "depth": 0,
+   "text": "I'm really happy to see the twins, and I'm glad the two of them and Sana made up with each other, but those \"errors\" Sana is getting are really concerning to me."
+  },
+  {
+   "score": 5,
+   "id": "dhvat38",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 18:41:13",
+   "depth": 0,
+   "text": "That moment when you see the nice teacher lady Ichijo and you remember she curb-stomped a violent superpowered kidnapper just two episodes ago."
+  },
+  {
+   "score": 2,
+   "id": "dhv43fy",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 15:56:07",
+   "depth": 0,
+   "text": "This episode brought on happy tears and I ain't mad. It was really heart warming to see Sana and the twins make up. Sana's character growth feels so real too, like you could believe it's how a child would really be like in a similar situation."
+  },
+  {
+   "score": 2,
+   "id": "dhv5d1u",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 16:28:31",
+   "depth": 0,
+   "text": "Sana and the twins was beautiful"
+  },
+  {
+   "score": 2,
+   "id": "dhvdwue",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 19:53:44",
+   "depth": 0,
+   "text": "There were so many instances of foreshadowing in this episode I just can't help but imagine the worst possible endings."
+  },
+  {
+   "score": 2,
+   "id": "dhviqvo",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 22:04:10",
+   "depth": 0,
+   "text": "I don't like where this is going at all."
+  },
+  {
+   "score": 1,
+   "id": "dhusbq7",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 11:30:53",
+   "depth": 0,
+   "text": "See, that's the show I want to see. Not all that stupid fighting & action crap.\n\nThe title for next weeks show makes me really anxious."
+  },
+  {
+   "score": 1,
+   "id": "dhv52cj",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 16:20:49",
+   "depth": 0,
+   "text": "I feel like I should be bracing myself for something bad to happen in the future. D:"
+  },
+  {
+   "score": 1,
+   "id": "dhvlrlj",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 23:59:12",
+   "depth": 0,
+   "text": "It feels good to see a Chinatown in anime."
+  },
+  {
+   "score": 1,
+   "id": "dhvmzf3",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-22 00:54:19",
+   "depth": 0,
+   "text": "Sana rekindled her friendship with the twins! She's making steps to becoming a proper human being! And ... possibly regressing in other ways. Please don't have a bad ending."
+  },
+  {
+   "score": 1,
+   "id": "dhw0kps",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-22 08:28:57",
+   "depth": 0,
+   "text": "this is going to get real sad real soon isn't it?"
+  },
+  {
+   "score": 1,
+   "id": "dhyc6qr",
+   "pid": "t1_dhw0kps",
+   "date": "2017-05-23 16:40:11",
+   "depth": 1,
+   "text": "This is based on an ongoing manga so I think we can assume the sadness won't be anything like her dying."
+  },
+  {
+   "score": -6,
+   "id": "dhupx07",
+   "pid": "t3_6cgy4j",
+   "date": "2017-05-21 10:36:49",
+   "depth": 0,
+   "text": "This is the most deceived I've ever felt by a show labeled on MAL as \"Adventure, Mystery, Seinen\" and I'm mad. Hope something changes in the final four episodes. \n\nEdit: Ah, /r/anime, where you're not allowed to have a different opinion. Good to see that's still a thing. Nowhere did I say it's a bad show, so maybe chill on the downvotes.\n"
+  },
+  {
+   "score": 3,
+   "id": "dhv9jza",
+   "pid": "t1_dhupx07",
+   "date": "2017-05-21 18:11:29",
+   "depth": 1,
+   "text": "I'm expecting it to switch *again*. Last time something like this happened, it ended up rather dark."
+  },
+  {
+   "score": 1,
+   "id": "dhvnsa5",
+   "pid": "t1_dhv9jza",
+   "date": "2017-05-22 01:34:30",
+   "depth": 2,
+   "text": "I'm hoping so, but not holding my breath. "
+  },
+  {
+   "score": 4,
+   "id": "dhuyc50",
+   "pid": "t1_dhupx07",
+   "date": "2017-05-21 13:43:11",
+   "depth": 1,
+   "text": "I don't know why you've been downvoted. There's a very predominant bait-and-switch aspect to this show. I'm just totally happy with what they gave me instead. But I can also understand someone else's frustration over it.\n\nOn one hand, it seems weird that we're up to ep 7/12 and not that much happened. On the other hand, there's quite a bit of content in the manga, so I'm guessing they decided to do an arc per season instead of condensing the story.\n\nIt actually made me curious about the manga. Can't wait for July (first vol. in English)."
+  },
+  {
+   "score": 1,
+   "id": "dhuylu8",
+   "pid": "t1_dhuyc50",
+   "date": "2017-05-21 13:49:25",
+   "depth": 2,
+   "text": "Yeah, the reason I'm not a fan of SoL is because I don't generally enjoy shows where \"nothing happens\" or \"everything is just so comfy\". Just doesn't do it for me. So the bait and switch has me frustrated and wondering if I should even finish watching. "
+  },
+  {
+   "score": 2,
+   "id": "dhvd31l",
+   "pid": "t1_dhuylu8",
+   "date": "2017-05-21 19:35:42",
+   "depth": 3,
+   "text": "The adventure and mystery are there. What are you complaining about exactly? Even the *slice of life* segments in this episode furthered the mystery around Sana  (why is she error-ing?) and there was a bit of an action-adventure segment with Sana and the twins chasing scene.\n\nSo, again what are you complaining exactly? "
+  },
+  {
+   "score": 1,
+   "id": "dhvnv9u",
+   "pid": "t1_dhvd31l",
+   "date": "2017-05-22 01:38:46",
+   "depth": 4,
+   "text": "It wasn't segments, the entire past two episodes have been SoL format, which isn't something I enjoy. I'm allowed to not like things  just the same way as you're allowed to like them. The \"action/adventure\" scene was just a big OTT comedy sequence and I didn't enjoy it. The error thing is interesting, the flash of backstory for the twins was interesting, but most of it was all cutesy cutesy with no real substance, which just doesn't interest me. \n\nShows that consist primarily of \"look how cute and comfy this all is yay happy feels awww\" are incredibly boring to me, only CGDCT one I've enjoyed so far has been Gochiusa, which I checked out because I liked the character designs. I avoid most \"comfy\" shows on principle now because I know I won't enjoy them. Tried Flying Witch and was terminally bored and dropped it. The genre just isn't for me. \n\n"
+  },
+  {
+   "score": 5,
+   "id": "dhv4h3g",
+   "pid": "t1_dhuylu8",
+   "date": "2017-05-21 16:05:37",
+   "depth": 3,
+   "text": "This episode pretty much guaranteed that there will be drama in the future, so if you are interested in where it can go keep watching if not then it's best to drop it."
+  },
+  {
+   "score": 1,
+   "id": "dhvo80e",
+   "pid": "t1_dhv4h3g",
+   "date": "2017-05-22 01:56:26",
+   "depth": 4,
+   "text": "I hope so. I'll give it one more episode at least, we're nearly to the end anyway. "
+  },
+  {
+   "score": 14,
+   "id": "dhuyctg",
+   "pid": "t1_dhupx07",
+   "date": "2017-05-21 13:43:37",
+   "depth": 1,
+   "text": "Adventure and Mystery are arguable, sure, but Seinen just refers to the demographic of the magazine the manga is in, so that's correct."
+  },
+  {
+   "score": -2,
+   "id": "dhvo7gy",
+   "pid": "t1_dhuyctg",
+   "date": "2017-05-22 01:55:41",
+   "depth": 2,
+   "text": "Haha, so, basically, \"The target audience is correct but not the other two tags describing genre\" - suppose I should start looking up the source material genre over trusting MAL. :/ "
+  },
+  {
+   "score": 3,
+   "id": "dhvsf13",
+   "pid": "t1_dhvo7gy",
+   "date": "2017-05-22 05:08:43",
+   "depth": 3,
+   "text": "To be fair MAL listing *shoujo, seinen, shounen*, etc as it those things were genres allows this kind of confusion. People see \"shounen\" and think of Naruto/DBZ or see \"shoujo\" and immediately equate it to some romance. With \"seinen\" they would probably think of *Monster* or even *Gantz*.\n\nSeinen magazines are choke-full of *slice of life* series, and those ones are the ones getting more often than not adapted to anime. "
+  },
+  {
+   "score": 0,
+   "id": "dhvv0o2",
+   "pid": "t1_dhvsf13",
+   "date": "2017-05-22 06:26:17",
+   "depth": 4,
+   "text": "Yup. This is my problem. :( I see seinen and I think \"finally\" but half the time I'm wrong. "
+  },
+  {
+   "score": 5,
+   "id": "dhvw883",
+   "pid": "t1_dhvv0o2",
+   "date": "2017-05-22 06:56:11",
+   "depth": 5,
+   "text": "Well, the only way to avoid this kind of thing is looking up the source material and getting rid of the mentality that those *tags* mean anything else besides the target audience. "
+  }
+ ]
+}
