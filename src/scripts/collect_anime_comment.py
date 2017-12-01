@@ -71,7 +71,7 @@ for anime in anime_post_ids:
 
                 comment_stack.extend(comment.replies)
 
-            submission_fname = os.path.join(anime_path, "ep_" + str(idx))
+            submission_fname = os.path.join(anime_path, "ep_" + str(idx) + ".json")
             idx += 1
 
             with open(submission_fname, 'w') as file:
